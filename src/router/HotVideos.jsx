@@ -1,22 +1,26 @@
-import axios from 'axios';
+
 import React from 'react';
 import { useLoaderData } from 'react-router-dom';
+import Youtube from '../api/youtube';
+import VideoCard from '../components/VideoCard';
 
 export default function HotVideos() {
   const loadData = useLoaderData();
-  console.log('핫');
-  console.log(loadData);
+
   return (
     <>
-      <p>🦩 비디오!</p>
-      <ul>
+      <ul
+        className='grid grid-cols-1 sm: grid-cols-2 lg: grid-cols-3 xl: grid-cols-4 gap-2 gap-y-4'
+      >
         {loadData.map((data)=>(
-          <li key={data.id}>
-            {data.snippet.title}
-          </li>
+          <VideoCard key={data.id}  video={data}/>
         ))}
       </ul>
     </>
   );
 }
 
+export function loader() {
+  const client = new Youtube();
+  return client.hot();
+}

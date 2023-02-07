@@ -5,7 +5,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import App from './App'
 import './index.css'
 import Error from './router/Error'
-import HotVideos from './router/HotVideos'
+import HotVideos, { loader as HotVideosLoader } from './router/HotVideos'
 import Result, { loader as ResultLoader } from './router/Result'
 
 const router = createBrowserRouter([
@@ -17,11 +17,16 @@ const router = createBrowserRouter([
       {
         index: true,
         element: <HotVideos />,
-        loader: async ()=>{const res = await axios.get('/mock/hot.json')
-        return res.data.items}
+        // loader: async ()=>{const res = await axios.get('/mock/hot.json')
+        // return res.data.items}
+        // loader: async ()=> {
+        //   const client = new Youtube();
+        //   return client.hot();
+        // }
+        loader: HotVideosLoader,
       },
       {
-        path: '/result',
+        path: '/results',
         element: <Result />,
         loader: ResultLoader,
       },
