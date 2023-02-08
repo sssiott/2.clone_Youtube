@@ -18,7 +18,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
-  @apply w-full max-w-screen-2xl;
+  @apply w-3 max-w-screen-2xl;
 }
 /* 
 a {

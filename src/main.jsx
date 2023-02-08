@@ -17,12 +17,6 @@ const router = createBrowserRouter([
       {
         index: true,
         element: <HotVideos />,
-        // loader: async ()=>{const res = await axios.get('/mock/hot.json')
-        // return res.data.items}
-        // loader: async ()=> {
-        //   const client = new Youtube();
-        //   return client.hot();
-        // }
         loader: HotVideosLoader,
       },
       {
