@@ -10,10 +10,10 @@ export default class Youtube {
     });
   }
 
-  async hot() {
+  async mostPopular() {
     return this.client
       .get("/videos", {
-        params: { part: "snippet", maxResults: 25, chart: "mostPopular" },
+        params: { part: "snippet,statistics", maxResults: 20, chart: "mostPopular" },
       })
       .then((res) => res.data.items);
   }
@@ -22,21 +22,55 @@ export default class Youtube {
     return this.client.get("/search", {
       params: {
         part: "snippet",
-        maxResults: 25,
+        maxResults: 20,
         type: "video",
         q: keyword,
       },
-    });
+    })
+    .then(res=>res.data.items)
+    .then(videos=>videos.map((item)=>
+      ({...item,id: item.id.videoId})
+    ));
   }
 
-  async channelDetail(keyword) {
+  async channelDetails(id) {
     const result = await this.client.get("/channels", {
       params: {
-        part: "snippet",
-        id: keyword,
+        part: "snippet,statistics",
+        id,
       },
     });
     const data = await result.data.items[0];
     return data;
+  }
+
+  async videoDetails(id) {
+    const result = await this.client.get("/videos", {
+      params: {
+        part: "snippet,statistics",
+        id,
+      }
+    });
+    return result.items[0];
+  }
+  
+  async relatedVideos(id) {
+    return this.client.get("/search", {
+      params: {
+        part: "snippet",
+        relatedToVideoId: id,
+        maxResults: 20,
+        type: "video"
+      }
+    })
+    .then(res=>res.data.items)
+    .then(videos=>videos.map((item)=>
+    ({...item,id: item.id.videoId})
+    ))
+  }
+
+  async getChannelThumbnail(id) {
+    const channelDetail = await this.channelDetails(id);
+    return channelDetail.snippet.thumbnails.default.url;
   }
 }

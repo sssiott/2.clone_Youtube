@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "58KcyLzpefL8QP2i2fGK7xWkxcw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ZpW0gP5cDigvvoO4_8f_rVKAJFU",
+            "id": "7zXrDVRj3eM",
+            "snippet": {
+                "publishedAt": "2021-05-19T15:50:05Z",
+                "channelId": "UClJO9jvaU5mvNuP-XTbhHGw",
+                "title": "Tiger Woods & Collin Morikawa's Iron Striking Secrets | TaylorMade Golf",
+                "description": "In The Art of Striking, Tiger Woods, arguably the greatest iron player of all time, and Collin Morikawa share their feels, thought processes and swing thoughts on all things irons. From flighting shots into the wind, controlling trajectory and swing speeds, these two know what it takes to hit the proper shot and find the putting surface. What similarities do you see between these two? What differences? Let us know!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7zXrDVRj3eM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7zXrDVRj3eM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7zXrDVRj3eM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7zXrDVRj3eM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "TaylorMade Golf",
+                "tags": [
+                    "taylormadegolf",
+                    "golf",
+                    "Tiger Woods",
+                    "Collin Morikawa",
+                    "golfer",
+                    "golfers",
+                    "PGA Tour",
+                    "2021",
+                    "new",
+                    "video",
+                    "iron",
+                    "clinic",
+                    "swing",
+                    "golf swing",
+                    "equipment",
+                    "best",
+                    "irons",
+                    "swings",
+                    "tiger woods irons",
+                    "collin morikawa irons",
+                    "tee",
+                    "taylormade",
+                    "taylormade golf",
+                    "taylormade irons",
+                    "trajectory",
+                    "control",
+                    "flight",
+                    "how to",
+                    "instruction"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Tiger Woods & Collin Morikawa's Iron Striking Secrets | TaylorMade Golf",
+                    "description": "In The Art of Striking, Tiger Woods, arguably the greatest iron player of all time, and Collin Morikawa share their feels, thought processes and swing thoughts on all things irons. From flighting shots into the wind, controlling trajectory and swing speeds, these two know what it takes to hit the proper shot and find the putting surface. What similarities do you see between these two? What differences? Let us know!"
+                }
+            },
+            "statistics": {
+                "viewCount": "1588506",
+                "likeCount": "13338",
+                "favoriteCount": "0",
+                "commentCount": "888"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

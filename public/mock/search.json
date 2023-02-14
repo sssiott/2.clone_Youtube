@@ -1,862 +1,692 @@
 {
-    "kind": "youtube#searchListResponse",
-    "etag": "l-tAyZc822x9H9uMLGvTMAPDcic",
-    "nextPageToken": "CBkQAA",
-    "regionCode": "KR",
-    "pageInfo": {
+  "kind": "youtube#searchListResponse",
+  "etag": "0CfT89GZ8aWEEPtQvBQNtsOnv94",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
       "totalResults": 1000000,
-      "resultsPerPage": 25
-    },
-    "items": [
+      "resultsPerPage": 20
+  },
+  "items": [
       {
-        "kind": "youtube#searchResult",
-        "etag": "xSJhogzsw9hM5KzA7th0E_-HNSQ",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "fCuQ-HmvvUU"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-30T19:00:26Z",
-          "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
-          "title": "EASIEST PADDLE OUT EVER AT PIPELINE! BEST DAY OF THE YEAR!",
-          "description": "STAY PSYCHED MERCHANDISE: https://staypsyched.com - JAMIE O'BRIEN SURF SCHOOL TURTLE BAY HAWAII ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/fCuQ-HmvvUU/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/fCuQ-HmvvUU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/fCuQ-HmvvUU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "5WVXdDuHGWS0FbTBKtsE66qvtCs",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "QJpdQFq9UV0"
           },
-          "channelTitle": "Jamie O'Brien",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-30T19:00:26Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-11T03:00:20Z",
+              "channelId": "UCKwGZZMrhNYKzucCtTPY2Nw",
+              "title": "Highlights | Round 2 | WM Phoenix Open | 2023",
+              "description": "Check out the best shots of the day from round 2 of the 2023 WM Phoenix Open, featuring Scottie Scheffler, Jon Rahm, Rory ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/QJpdQFq9UV0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/QJpdQFq9UV0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/QJpdQFq9UV0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "PGA TOUR",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-11T03:00:20Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "37YaFs3uCW-W_i1HHmS2L0MV5Ek",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "764wMoEJd4c"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-31T11:00:05Z",
-          "channelId": "UCzcQOTuXYGuCvTekySb_CeQ",
-          "title": "Glassy Little Peaks – Canggu",
-          "description": "You could quite rightly ask for a bit more size, but you couldn't fault the conditions for this session in Canggu yesterday.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/764wMoEJd4c/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/764wMoEJd4c/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/764wMoEJd4c/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "qfPhkBc5NHbPYTN7v6E-BJYAjlY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "xHgoYsFIULM"
           },
-          "channelTitle": "Surfers of Bali",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-31T11:00:05Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-11T00:57:45Z",
+              "channelId": "UCKwGZZMrhNYKzucCtTPY2Nw",
+              "title": "Scottie Scheffler shoots 7-under 64 | Round 2 | WM Phoenix Open | 2023",
+              "description": "In the second round of the 2023 WM Phoenix Open, Scottie Scheffler carded a bogey-free 7-under par 64 heading into the ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/xHgoYsFIULM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/xHgoYsFIULM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/xHgoYsFIULM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "PGA TOUR",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-11T00:57:45Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "GOZN1fWQRI5PNdtd4hglh5HzzF0",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "ma67yOdMQfs"
-        },
-        "snippet": {
-          "publishedAt": "2021-01-23T17:00:15Z",
-          "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-          "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
-          "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean — or favorite place in the ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "76STo0DffzObdvlLnat3lyDzz3o",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "UmBiu3me72U"
           },
-          "channelTitle": "Red Bull Surfing",
-          "liveBroadcastContent": "none",
-          "publishTime": "2021-01-23T17:00:15Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-11T08:00:11Z",
+              "channelId": "UCSwdmDQhAi_-ICkAvNBLEBw",
+              "title": "You Won&#39;t Believe How EASY this Makes Your Driver Golf Swing",
+              "description": "Golfer left visibly shocked after huge surprise & the most amazing golf lesson - CAUGHT ON CAMERA! What makes the results of ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/UmBiu3me72U/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/UmBiu3me72U/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/UmBiu3me72U/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Danny Maude",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-11T08:00:11Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "R5kIN2_j_-i2aNPn1kPUi0bUpvk",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "hc1RqwuRWlk"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-30T18:00:30Z",
-          "channelId": "UCetqivVVEGv6diBDDM0ItQg",
-          "title": "MASSIVE WAIMEA // THE BIGGEST SWELL OF THE SEASON // LAKEY PETERSON",
-          "description": "Welcome back guys! As promised this weeks episode is action packed with footage from the Eddie Aikau event held at Waimea ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/hc1RqwuRWlk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/hc1RqwuRWlk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/hc1RqwuRWlk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "9wja-nZDw3FqjadCsGZzI-zOGO8",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "EpBnxfLtXCA"
           },
-          "channelTitle": "Lakey Peterson",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-30T18:00:30Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-11T02:38:24Z",
+              "channelId": "UC5igJFdBQVqg7hXFI7075OQ",
+              "title": "Players react to Tiger Woods playing Genesis Invitational | Golf Central | Golf Channel",
+              "description": "Jon Rahm, Scottie Scheffler and Max Homa reacts to the news that Tiger Woods will be playing next week at The Genesis ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/EpBnxfLtXCA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/EpBnxfLtXCA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/EpBnxfLtXCA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Golf Channel",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-11T02:38:24Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "5oMzuwSgwOLXxPQOfL8JbyWheoI",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "bJpa_60UlNE"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-23T03:29:18Z",
-          "channelId": "UC4i3-yfVazfuqwoz71T79Sw",
-          "title": "The 2023 Eddie Aikau Big Wave Invitational at Waimea Bay",
-          "description": "World's most iconic big-wave event returns to Waimea Bay. WHAT ARE WE WATCHING? The word “unique” is thrown around a ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/bJpa_60UlNE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/bJpa_60UlNE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/bJpa_60UlNE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "mZBQnf1GnWbRa8AGx3F085mJtLo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "0Vmn_zKifAk"
           },
-          "channelTitle": "Surfline",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-23T03:29:18Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-10T16:43:26Z",
+              "channelId": "UCFHZHhZaH7Rc_FOMIzUziJA",
+              "title": "Can Tour Pro Break 70, Rick Shiels Break 75 &amp; Amateur Break 80?",
+              "description": "Can Tour Pro Break 70, Rick Shiels Break 75 & Amateur Break 80? ▻Become a FREE SUBSCRIBER to RICK SHIELS now ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/0Vmn_zKifAk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/0Vmn_zKifAk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/0Vmn_zKifAk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Rick Shiels Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-10T16:43:26Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "K4Kx-cOzQHfcz79omVXiqoaQ-cY",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "zZqxPozl2Ec"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-24T07:00:09Z",
-          "channelId": "UCEUYW6zm6KnUxPcwY1D8HsQ",
-          "title": "Surfing Massive Waves Waimea Bay 🔥 (Jan 22, 2023)  4K",
-          "description": "What occurred on January 22, 2023, at Waimea Bay on the North Shore of Oahu is nothing short of historical. We're simply doing ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "bH-AuvBURaylDsjYb8_xN1RtQ68",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "6E-wGx-M44Q"
           },
-          "channelTitle": "Eimy’s Hawaii Happy life 🏄🏻",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-24T07:00:09Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-10T19:36:15Z",
+              "channelId": "UCgUueMmSpcl-aCTt5CuCKQw",
+              "title": "The Biggest Meltdown in YouTube Golf | Bob Does Sports 2v2 ALT Shot",
+              "description": "What a time! If you guys want a sweet belt or my signature shoes joey and I were wearing they are below: Belt: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/6E-wGx-M44Q/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/6E-wGx-M44Q/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/6E-wGx-M44Q/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Grant Horvat Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-10T19:36:15Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "k-3FqnfFr8GkgdXW3oqoDZMfh2I",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "Smgql_DESn8"
-        },
-        "snippet": {
-          "publishedAt": "2021-09-15T10:59:56Z",
-          "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
-          "title": "Stray Kids &quot;Surfin&#39; (리노, 창빈, 필릭스)(Surfin&#39; (Lee Know, Changbin, Felix))&quot; Video",
-          "description": "Stray Kids(스트레이 키즈) \"Surfin' (리노, 창빈, 필릭스)(Surfin' (Lee Know, Changbin, Felix))\" Video Stray Kids THE 2ND ALBUM ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Smgql_DESn8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Smgql_DESn8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Smgql_DESn8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "oJlWrWqr3CNSBTACvURretm612I",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "QJrV_NNcFDI"
           },
-          "channelTitle": "Stray Kids",
-          "liveBroadcastContent": "none",
-          "publishTime": "2021-09-15T10:59:56Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-10T15:44:41Z",
+              "channelId": "UCvZwbZt6YZQ4wj_7qyjPDZw",
+              "title": "Tom McKibbin Round 2 Highlights | 2023 Singapore Classic",
+              "description": "Highlights from Tom McKibbin's second round at the Singapore Classic. ▻ SUBSCRIBE: http://et.golf/Subscribe This week, the DP ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/QJrV_NNcFDI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/QJrV_NNcFDI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/QJrV_NNcFDI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "DP World Tour",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-10T15:44:41Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "KoA__k7E1RUYzBVIbQ0N7rjjBMQ",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "j1AQ_s-y52M"
-        },
-        "snippet": {
-          "publishedAt": "2022-07-16T19:00:13Z",
-          "channelId": "UCvOh9i-BOFzu51rpj33fGag",
-          "title": "7 tips to transition from beginner to intermediate | How to Surf",
-          "description": "In this video, we break down our 7 best tips on how to transition from Beginner to Intermediate faster. 00:00 Intro 00:24 Surf The ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/j1AQ_s-y52M/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/j1AQ_s-y52M/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/j1AQ_s-y52M/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "9FcCTSKPjo9Z5FHRjoVQms61Fgs",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "lfY6Ypdr6Xo"
           },
-          "channelTitle": "Barefoot Surf",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-07-16T19:00:13Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-10T02:00:18Z",
+              "channelId": "UCKwGZZMrhNYKzucCtTPY2Nw",
+              "title": "Highlights | Round 1 | WM Phoenix Open | 2023",
+              "description": "Check out the best shots of the day from round 1 of the 2023 WM Phoenix Open, featuring Rorry McIlroy, Jordan Spieth, Tony ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/lfY6Ypdr6Xo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/lfY6Ypdr6Xo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/lfY6Ypdr6Xo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "PGA TOUR",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-10T02:00:18Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "c86hnwQ1Qul77g5vHbup2n6XEeY",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "5Qeu9UEDSpc"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-31T10:26:09Z",
-          "channelId": "UCNBmxc6FvKyxtCpUygcdINA",
-          "title": "Wicked winter surfing in Lake Erie: Meet the Skelton brothers",
-          "description": "Surf's up! The Skelton brothers are building a social media following for surfing in Cleveland. Yes, Cleveland. These surfers are ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/5Qeu9UEDSpc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/5Qeu9UEDSpc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/5Qeu9UEDSpc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "jvVxnOnlKqm72Nd6t2Prk-w8-Xk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "XhfLe6tmYNI"
           },
-          "channelTitle": "WKYC Channel 3",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-31T10:26:09Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-10T17:00:31Z",
+              "channelId": "UCoIW9lB_DU6Uh7YplZgxgng",
+              "title": "Big MISTAKE making this golf video",
+              "description": "We should not have filmed this golf video... Which one of us is the worst golfer in the world?? The golf in this video will make you ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/XhfLe6tmYNI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/XhfLe6tmYNI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/XhfLe6tmYNI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Golf Mates",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-10T17:00:31Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "Y3jijJv98blIrCD07bhTLpPPlWA",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "rwfIxSnvUHk"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-30T11:00:26Z",
-          "channelId": "UCzcQOTuXYGuCvTekySb_CeQ",
-          "title": "Female Loggers Of Bali – 2022",
-          "description": "2022 was a busy year for the longboarders of Bali and there were plenty of ladies in the lineup – particularly at Batu Bolong.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/rwfIxSnvUHk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/rwfIxSnvUHk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/rwfIxSnvUHk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "do0WubsSVrwetcXQ3V0Ri5FAM8Q",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "ryy-_O9fZwk"
           },
-          "channelTitle": "Surfers of Bali",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-30T11:00:26Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-09T23:00:26Z",
+              "channelId": "UCzXwjTI6c6mVn6oui_p6oiw",
+              "title": "NO WAY NEW MINI GOLF GAME",
+              "description": "Is your reaction to seeing this video your recommended or subscriber feed Leave a like and Subscribe if you enjoyed! Thanks ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ryy-_O9fZwk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ryy-_O9fZwk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ryy-_O9fZwk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "SMii7Y",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-09T23:00:26Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "tQehfvyD5Bj04hi-Jd4_0lx4wSs",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "eSWST13stO4"
-        },
-        "snippet": {
-          "publishedAt": "2022-03-27T15:00:32Z",
-          "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
-          "title": "🔵4k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music☑️",
-          "description": "Waves of the World Filmers: Chris Kincade: https://www.instagram.com/chriskincade.wotw Andre Botha: ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "-lljBCZRh2QLmac467w7beRW71U",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "SmAYfYHs5Fc"
           },
-          "channelTitle": "Waves of the World",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-03-27T15:00:32Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-09T21:30:54Z",
+              "channelId": "UCfdYeBYjouhibG64ep_m4Vw",
+              "title": "This Golf Match Cost them $6,500",
+              "description": "Primo: https://youtube.com/@primogolf SUBSCRIBE So you do not miss exciting and new content! Morris Coffee: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/SmAYfYHs5Fc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/SmAYfYHs5Fc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/SmAYfYHs5Fc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Micah Morris",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-09T21:30:54Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "xDQuFNwPSLdmki97gMjrQhhfu_E",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "cNfpuYXWf7E"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-27T15:00:21Z",
-          "channelId": "UCblfuW_4rakIf2h6aqANefA",
-          "title": "Surfing The Biggest Wave In The World (100ft 😱)",
-          "description": "",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/cNfpuYXWf7E/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/cNfpuYXWf7E/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/cNfpuYXWf7E/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "4_m2xeYcX_O4vbNXmAwL6jR48ek",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "aj9oQSR-Xmg"
           },
-          "channelTitle": "Red Bull",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-27T15:00:21Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-12-22T12:00:01Z",
+              "channelId": "UCvZwbZt6YZQ4wj_7qyjPDZw",
+              "title": "Best 100 Golf Shots Of The Year | Part 1",
+              "description": "50 of the best shots from the 2022 DP World Tour season ▻ SUBSCRIBE: http://et.golf/Subscribe Welcome to the Official YouTube ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/aj9oQSR-Xmg/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/aj9oQSR-Xmg/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/aj9oQSR-Xmg/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "DP World Tour",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-12-22T12:00:01Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "-the4aJO3KQDCoCbn3fl4Avate8",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "xtHZKToMvus"
-        },
-        "snippet": {
-          "publishedAt": "2022-11-02T17:46:49Z",
-          "channelId": "UCTYHNSWYy4jCSCj1Q1Fq0ew",
-          "title": "Interlusion | A Billabong Surf Film Shot in the Mentawai Islands",
-          "description": "Welcome to the Interlusion. What happens when the best surf trip of former world champ Joel Parkinson's life happens years after ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/xtHZKToMvus/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/xtHZKToMvus/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/xtHZKToMvus/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "obox3CG0IsIGFi4JsBH45WwYvt8",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "u0MRmN9-lWI"
           },
-          "channelTitle": "Billabong",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-11-02T17:46:49Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-11T06:00:29Z",
+              "channelId": "UCIVcVVC1clZg2dHMoNmeXcg",
+              "title": "2023 Honda Civic Type R (FL5) vs VW Golf R (Mk8) | PistonHeads",
+              "description": "All-wheel drive vs front-wheel drive. EA888 vs K20C1. Germany vs Japan. Which madly expensive hot hatch should you buy?",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/u0MRmN9-lWI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/u0MRmN9-lWI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/u0MRmN9-lWI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "PistonHeads",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-11T06:00:29Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "-RIMSMCDhn9bTA1O8b-wagdaRp0",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "iKDhxjGrcvA"
-        },
-        "snippet": {
-          "publishedAt": "2022-04-12T19:08:14Z",
-          "channelId": "UC0uzP4XsyVMGr7NwBUYv4mA",
-          "title": "GIRL&#39;S SURF TRIP IN MENTAWAIS",
-          "description": "Hey everyone! I recently spend 10 days in the Mentawais with some girlfriends and we had the best time. Some people who don't ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/iKDhxjGrcvA/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/iKDhxjGrcvA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/iKDhxjGrcvA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "H_7tW2cZtFIWMDST9DYlN6YWqwQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "u-ocHnzXGiY"
           },
-          "channelTitle": "Eryn Krouse",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-04-12T19:08:14Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-09T17:00:45Z",
+              "channelId": "UCFoez1Xjc90CsHvCzqKnLcw",
+              "title": "I Hit A Shot In Front Of 15,000 People… AND NAILED IT!!!",
+              "description": "I tee it up at the 16th hole at the Waste Management Phoenix Open, in front of a stadium of 15000 fans to see if I can hit the green ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/u-ocHnzXGiY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/u-ocHnzXGiY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/u-ocHnzXGiY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Peter Finch Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-09T17:00:45Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "4S02hVkktcI6bkdXarTSJ1dNKZ8",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "JVtMWlosQrQ"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-18T21:00:06Z",
-          "channelId": "UC_F4Iy5korq2mEWZDQhG07w",
-          "title": "HOW WE SURVIVE SURFING 50FT WAIMEA BAY, BIGGEST SWELL OF THE SEASON!",
-          "description": "The waves get massive here in Hawaii with what is for sure the biggest swell this season. A lot of people went to Jaws but I ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/JVtMWlosQrQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/JVtMWlosQrQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/JVtMWlosQrQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "d_HgFQOU80pn_nJNSJ3OXC035Ss",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "CXopzwmIwJU"
           },
-          "channelTitle": "Koa Rothman",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-18T21:00:06Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-09T20:00:04Z",
+              "channelId": "UCkkV4PdfZ9L6xHS0-FE_hSA",
+              "title": "This VERY EFFECTIVE Practice Drill Makes THE GOLF SWING So EASY! (In just 1 MIN)",
+              "description": "This simple practice drill makes the golf swing SO SO EASY. This will help you to get PERFECT Ball Striking in Just 1 Minute.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/CXopzwmIwJU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/CXopzwmIwJU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/CXopzwmIwJU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "AlexElliottGolf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-09T20:00:04Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "wUTkEmlA6aWwJgEKNY1ZIYFtAZ4",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "FUgBnf6Jg3A"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-29T15:00:14Z",
-          "channelId": "UC4qa5EroJxnQM6Sng9WhgsQ",
-          "title": "My First Time Surfing Canada! (British Columbia)",
-          "description": "My journey to surf every country in the world is well & truly underway! I'm starting small, well maybe not small, but I'm starting with ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/FUgBnf6Jg3A/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/FUgBnf6Jg3A/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/FUgBnf6Jg3A/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "wqQ6W6XHbkiqdSjuM8Uni-814As",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "4ZYZIMA_aj4"
           },
-          "channelTitle": "Ben Gravy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-29T15:00:14Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-10T10:04:35Z",
+              "channelId": "UC9NboheGgkad3FwqEIk0JlA",
+              "title": "First Day Highlights | Lalla Meryem Cup | Ladies European Tour",
+              "description": "Subscribe Here for More from LET: http://bit.ly/LETGolf Website: http://www.ladieseuropeantour.com/ Facebook: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/4ZYZIMA_aj4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/4ZYZIMA_aj4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/4ZYZIMA_aj4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Ladies European Tour",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-10T10:04:35Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "f1Fc94uJKvzXIojSmenFDP1ct_8",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "pmlzdeZuAk8"
-        },
-        "snippet": {
-          "publishedAt": "2021-02-27T14:28:13Z",
-          "channelId": "UCxkIzPnPzWLz4IeuxIROflg",
-          "title": "What Surfing Is ACTUALLY Like as a Beginner",
-          "description": "See what it's actually like to surf as a beginner, including why it's fun and why it kind of sucks at times! Click below to join the ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "Xfa5Qcb4VHfPbx8w33XfQc-Zg2o",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "g6eRfi_Nyqk"
           },
-          "channelTitle": "Travis Marziani",
-          "liveBroadcastContent": "none",
-          "publishTime": "2021-02-27T14:28:13Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-01T20:00:25Z",
+              "channelId": "UC4q20j0jF-z7Tv-_poS3ESA",
+              "title": "We Take Rick Shiels Thrifting For Golf Clubs In America!",
+              "description": "In this golf vlog we take Rick Shiels thrifting for golf clubs in America! Where we sell golf clubs: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/g6eRfi_Nyqk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/g6eRfi_Nyqk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/g6eRfi_Nyqk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Stacked Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-01T20:00:25Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "58pPaqRwRds-e8RsKHWbkhV-PpA",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "OHaKUMtxGTU"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-11T09:44:18Z",
-          "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
-          "title": "SURFING THE CLEAREST WAVES EVER!? (RAW POV) + TESTING SURF GEAR [PT.2]",
-          "description": "In today's video, I surf the CLEAREST WAVES I have ever surfed! I also test out all the gear @HoStevie got me for Christmas!",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/OHaKUMtxGTU/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/OHaKUMtxGTU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/OHaKUMtxGTU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "B_8r2LCjuRCNcOEul6oF3jyW4gM",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "y4Ui2O5tV10"
           },
-          "channelTitle": "Surfing With Noz",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-11T09:44:18Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-08T17:21:05Z",
+              "channelId": "UCfi-mPMOmche6WI-jkvnGXw",
+              "title": "The Good Good Dubai Mini Major",
+              "description": "Good Good Apparel ▻ https://goodgoodgolf.com Thanks to The Hero Dubai DC for having us out ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/y4Ui2O5tV10/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/y4Ui2O5tV10/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/y4Ui2O5tV10/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Good Good",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-08T17:21:05Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "MIYU5nZHQ6Q0GptHys5-3FbJpMs",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "CWEw4wvaP5Y"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-29T18:08:54Z",
-          "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-          "title": "The World&#39;s Best Are Back, Road To The Rip Curl WSL Finals Begins At The Billabong Pro Pipeline",
-          "description": "As the epicenter of the surf universe and the birthplace of the sport, it's only right for Pipeline to kick off the Championship Tour.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/CWEw4wvaP5Y/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/CWEw4wvaP5Y/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/CWEw4wvaP5Y/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "oG9kNAjWR4tjNT_zexfm1thWwBk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "GuelpgZJi9o"
           },
-          "channelTitle": "World Surf League",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-29T18:08:54Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-06T21:48:09Z",
+              "channelId": "UCJcc1x6emfrQquiV8Oe_pug",
+              "title": "Did I QUIT Pursuing PRO GOLF??",
+              "description": "FREE VERSION of my course management program HERE ▽ ▸https://lukekwongolf.com/free-access/ ▽ Consider supporting me ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/GuelpgZJi9o/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/GuelpgZJi9o/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/GuelpgZJi9o/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Luke Kwon Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-06T21:48:09Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "jAJEuYlX-6YuYBG5BDs5IcbPo8g",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "SoehsMvz5ME"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-25T19:00:10Z",
-          "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
-          "title": "INSANE SURF SESSION ￼AFTER MASSIVE EDDIE SWELL! RAW POV",
-          "description": "STAY PSYCHED MERCHANDISE: https://staypsyched.com - JAMIE O'BRIEN SURF SCHOOL TURTLE BAY HAWAII ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/SoehsMvz5ME/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/SoehsMvz5ME/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/SoehsMvz5ME/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "NHVtH308TSF_MDXXMl9jCSpBA2U",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "pOQOt-QIsNw"
           },
-          "channelTitle": "Jamie O'Brien",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-25T19:00:10Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "2tMm16ikDbMp3B_2ygA41grBOC0",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "MCCrirvFDFQ"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-27T23:03:54Z",
-          "channelId": "UCeYue9Nbodzg3T1Nt88E3fg",
-          "title": "Mason Ho 2022 Highlights",
-          "description": "THE BEST OF THE BEST! MASON HO 2022 HIGHLIGHT REEL! HERE IS A COMPILATION OF ALL OUR BEST CLIPS FILMED ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/MCCrirvFDFQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/MCCrirvFDFQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/MCCrirvFDFQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Ho & Pringle Productions",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-27T23:03:54Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "9umK3yEN-bTjEpLVgwTm54MYNqs",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "PECjELSRGcU"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-24T11:00:26Z",
-          "channelId": "UCzcQOTuXYGuCvTekySb_CeQ",
-          "title": "Who Is Indonesia’s Best Surfer?",
-          "description": "Rio Waida had a breakthrough year in 2022. He won two contests on the WSL Challenger Series, qualifying to compete at the ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/PECjELSRGcU/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/PECjELSRGcU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/PECjELSRGcU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Surfers of Bali",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-24T11:00:26Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "Qicp0G_jqH3ICQqVbSG-JnsaqIk",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "10-k1MN9YrI"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-20T18:00:02Z",
-          "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-          "title": "RECAP: The ALMOST Eddie Swell | Red Bull Surfing x Surfline 20ft +",
-          "description": "It might only be January but 2023 is already delivering one of the best big wave seasons in recent memory, with enough potential ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/10-k1MN9YrI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/10-k1MN9YrI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/10-k1MN9YrI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Red Bull Surfing",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-20T18:00:02Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "ymivo6UiK1TYGPk6eICPzPeUSDw",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "haI-j4y8pXE"
-        },
-        "snippet": {
-          "publishedAt": "2022-05-26T09:03:54Z",
-          "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
-          "title": "SURFING THE GLASSIEST WAVES EVER! (RAW POV)",
-          "description": "POV Surfing some of the GLASSIEST waves I've ever ridden! This RAW session was absolute magic Business Enquiries: ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/haI-j4y8pXE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/haI-j4y8pXE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/haI-j4y8pXE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Surfing With Noz",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-05-26T09:03:54Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "ju3wq5ZFUHcd_GmIQZWAooS-Z4Q",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "q01cHuCb8mY"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-30T17:00:29Z",
-          "channelId": "UC5N2asRYkdATmJ9dtr1fO1w",
-          "title": "The Shallows: Best Surfing Scene (Blake Lively)",
-          "description": "Nancy (Blake Lively) gets into the water for a great surf. #TheShallows #BlakeLively #movieclips #moviescenes #movie Watch the ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/q01cHuCb8mY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/q01cHuCb8mY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/q01cHuCb8mY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Scene City",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-30T17:00:29Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-02-08T00:14:04Z",
+              "channelId": "UCaeGjmOiTxekbGUDPKhoU-A",
+              "title": "How Golf Looks After a THREE MONTH Break",
+              "description": "For collab/partnerships contact: matt@golfsidekick.com Both BDog and I took off from playing golf. I had not played since Tbilisi ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/pOQOt-QIsNw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/pOQOt-QIsNw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/pOQOt-QIsNw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Golf Sidekick",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-02-08T00:14:04Z"
+          }
       }
-    ]
-  }
+  ]
+}

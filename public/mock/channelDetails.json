@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "v6g_9csiezXPJDdBbxSX8UWmRk0",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "xt336r7a19M5yQ3WTKZoHtnCOj0",
+            "id": "UClJO9jvaU5mvNuP-XTbhHGw",
+            "snippet": {
+                "title": "TaylorMade Golf",
+                "description": "Official TaylorMade Golf YouTube Channel",
+                "customUrl": "@taylormadegolf",
+                "publishedAt": "2006-07-17T21:08:40Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWrwHOqYAIfJle9Wy88liCUi0WK_iydpb2mlVfTqw=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWrwHOqYAIfJle9Wy88liCUi0WK_iydpb2mlVfTqw=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWrwHOqYAIfJle9Wy88liCUi0WK_iydpb2mlVfTqw=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "TaylorMade Golf",
+                    "description": "Official TaylorMade Golf YouTube Channel"
+                },
+                "country": "US"
+            },
+            "statistics": {
+                "viewCount": "113950269",
+                "subscriberCount": "251000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "559"
+            }
+        }
+    ]
+}

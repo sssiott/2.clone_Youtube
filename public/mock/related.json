@@ -1,1042 +1,831 @@
 {
-    "kind": "youtube#searchListResponse",
-    "etag": "JpSvb7aE8mCSqceKmjJ3z4138po",
-    "items": [
+  "kind": "youtube#searchListResponse",
+  "etag": "v2P9XWLjULiabb_5fZt_mKAmui8",
+  "items": [
       {
-        "kind": "youtube#searchResult",
-        "etag": "PvYyagcvhDMF2-rp1r6eF4KqjUw",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "c0KYU2j0TM4"
-        },
-        "snippet": {
-          "publishedAt": "2012-03-02T18:32:02Z",
-          "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-          "title": "The power of introverts | Susan Cain",
-          "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nIn a culture where being social and outgoing are prized above all else, it can be difficult, even shameful, to be an introvert. But, as Susan Cain argues in this passionate talk, introverts bring extraordinary talents and abilities to the world, and should be encouraged and celebrated.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "ttP3-KBiltSSMzYsJkfwGfD9D1Q",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "tGTLxIC66WE"
           },
-          "channelTitle": "TED",
-          "liveBroadcastContent": "none",
-          "publishTime": "2012-03-02T18:32:02Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-04-28T15:47:19Z",
+              "channelId": "UCFHZHhZaH7Rc_FOMIzUziJA",
+              "title": "You NEED to learn these golf shots!",
+              "description": "How to hit a draw, fade, low and high golf shots! These shots you NEED to learn to help you really improve your golf. \n\n►Become a FREE SUBSCRIBER to RICK SHIELS now \nhttp://bit.ly/SubRickShielsGolf\n\n►Official Garmin Ambassador: \nhttps://explore.garmin.com/en-GB/golf/\n\n► Hit #Subscribe & #HitTheBell so you don't miss out on any new videos! \n-----------------------------------------------------------------------------------\n►My Links:\nFacebook  ► https://www.facebook.com/RickShielsPGA/\nTwitter       ► http://bit.ly/RickShielsTwitter\nInstagram ► http://bit.ly/RickShielsIG\nWeb           ► http://www.rickshielsgolf.co.uk/\n---------------------------------------------------------------------------------\n\nHi I’m Rick Shiels, welcome to my channel RickShielsPGAGolf. This YouTube channel is designed to help you play better golf, also to help you enjoy your golf more! \n\nI specialise in golf club reviews, golf club unboxing, golf club news, golf club head to heads, and all about golf clubs. \n\nI also want to make you play better golf by providing coaching video on all topics about golf, how to fix your slice, fix your hook, help you drive the golf ball longer, hit your irons more pure, hit your irons closer to the hole and help you draw and fade your golf shots. \nI will also help you lower your score by chipping better by stopping you duff and thin chips, pitch the ball closer and also create backspin. Also I will provide you help to putt better and hole more putts! \n\nOn this channel I also make fun and entertaining golf content based on crazy and sometimes “gimmicky” golf clubs. I like to cut through the marketing hype about products and I like to give you the honest truth about golf equipment. \n\nIf you enjoy the channel make sure you hit subscribe and also tap the notification bell so that you are always notified when I release a new video.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/tGTLxIC66WE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/tGTLxIC66WE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/tGTLxIC66WE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/tGTLxIC66WE/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  }
+              },
+              "channelTitle": "Rick Shiels Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-04-28T15:47:19Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "iuXeoSQ7vl3wO2BAtUhDSINgUbc",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "eIho2S0ZahI"
-        },
-        "snippet": {
-          "publishedAt": "2014-06-27T14:18:00Z",
-          "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-          "title": "How to speak so that people want to listen | Julian Treasure",
-          "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nHave you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/eIho2S0ZahI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/eIho2S0ZahI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/eIho2S0ZahI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/eIho2S0ZahI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/eIho2S0ZahI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "-7kx7-2EjH4nRkkrN_7ZshOt6YU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "MIoWntRP8aw"
           },
-          "channelTitle": "TED",
-          "liveBroadcastContent": "none",
-          "publishTime": "2014-06-27T14:18:00Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-07-22T23:58:27Z",
+              "channelId": "UCkMOtD7MMYs1H55XH6CkWEw",
+              "title": "A Round with Tiger: Celebrity Playing Lessons - Dwyane Wade",
+              "description": "What could golf possibly have in common with professional basketball? As Tiger Woods and former Miami Heat shooting guard Dwyane Wade conclude in this episode, there’s a lot. The 13-time NBA All-Star and Olympic Gold medalist has doubled down on golf since turning to broadcasting after a celebrated 16-year career at the top of the game, and he relishes the chance to pick the brain of the Greatest Of All Time.\n\nPresented by GEICO + Blaze\n\nStill haven't subscribed to Golf Digest on YouTube? ➡️▶️ http://bit.ly/golfdigestyoutubesub\n\nABOUT GOLF DIGEST\nHome of the Hot List, Golf Digest Schools, news and trends, Golf Digest is the definitive destination of all-things golf. \n\nA Round with Tiger: Celebrity Playing Lessons - Dwyane Wade",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/MIoWntRP8aw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/MIoWntRP8aw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/MIoWntRP8aw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/MIoWntRP8aw/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  }
+              },
+              "channelTitle": "Golf Digest",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-07-22T23:58:27Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "DER6KDeZmrZxTwklseNnAo6h31M",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "4jwUXV4QaTw"
-        },
-        "snippet": {
-          "publishedAt": "2019-05-21T14:06:56Z",
-          "channelId": "UCftwRNsjfRo08xYE31tkiyw",
-          "title": "Former FBI Agent Explains How to Read Body Language | Tradecraft | WIRED",
-          "description": "Former FBI agent and body language expert Joe Navarro breaks down the various ways we communicate non-verbally. What does it mean when we fold our arms? Why do we interlace our fingers? Can a poker player actually hide their body language?\r\n\r\nCheck out Joe's book \"The Dictionary of Body Language\"\r\nhttps://www.jnforensics.com/ \r\nBooks By Joe Navarro:  https://www.jnforensics.com/books\r\nJoe Navarro Body Language Academy:  https://jnbodylanguageacademy.com\n\nStill haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 \r\nListen to the Get WIRED podcast  ►► https://link.chtbl.com/wired-ytc-desc\r\nWant more WIRED? Get the magazine ►► https://subscribe.wired.com/subscribe/splits/wired/WIR_YouTube?source=EDT_WIR_YouTube_0_Video_Description_ZZ\r\n\r\nGet more incredible stories on science and tech with our daily newsletter: https://wrd.cm/DailyYT\r\n\r\nAlso, check out the free WIRED channel on Roku, Apple TV, Amazon Fire TV, and Android TV. Here you can find your favorite WIRED shows and new episodes of our latest hit series Tradecraft.\r\n\r\nABOUT WIRED\r\nWIRED is where tomorrow is realized. Through thought-provoking stories and videos, WIRED explores the future of business, innovation, and culture.\n\nFormer FBI Agent Explains How to Read Body Language | Tradecraft | WIRED",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "duxhgzHqQNYVW4upR98TtGckx3c",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "XqAY3Eok6RQ"
           },
-          "channelTitle": "WIRED",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-05-21T14:06:56Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-07-07T20:45:09Z",
+              "channelId": "UClJO9jvaU5mvNuP-XTbhHGw",
+              "title": "Collin Morikawa's Iron Striking Clinic | TaylorMade Golf",
+              "description": "It's time to earn your wings. This is Collin Morikawa's Flight School. Watch and learn how two-time major champion and member of Team TaylorMade Collin Morikawa works his golf ball into the greens with his P·7MC irons and TP5 golf ball from TaylorMade Golf. \n\nWorking alongside @trottiegolf, Collin pulls off several maneuvers, showing you how to hit some shots off downhill lies, flat lies and slightly uphill working with the wind along the way.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/XqAY3Eok6RQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/XqAY3Eok6RQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/XqAY3Eok6RQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/XqAY3Eok6RQ/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  }
+              },
+              "channelTitle": "TaylorMade Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-07-07T20:45:09Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "Kls0EXy6Op-V0lY_pOJUEo_iWRY",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "RcGyVTAoXEU"
-        },
-        "snippet": {
-          "publishedAt": "2013-09-03T21:19:54Z",
-          "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-          "title": "How to make stress your friend | Kelly McGonigal",
-          "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nStress. It makes your heart pound, your breathing quicken and your forehead sweat. But while stress has been made into a public health enemy, new research suggests that stress may only be bad for you if you believe that to be the case. Psychologist Kelly McGonigal urges us to see stress as a positive, and introduces us to an unsung mechanism for stress reduction: reaching out to others.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "hyeiYXA6GuDIJUXLR9lbqpvj7Pg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "k9-m7-SzLM4"
           },
-          "channelTitle": "TED",
-          "liveBroadcastContent": "none",
-          "publishTime": "2013-09-03T21:19:54Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-07-07T02:26:58Z",
+              "channelId": "UClJO9jvaU5mvNuP-XTbhHGw",
+              "title": "Team TaylorMade LONG DRIVE Contest with SIM2 Driver | TaylorMade Golf",
+              "description": "Tiger Woods, Dustin Johnson, Rory McIlroy, Collin Morikawa, Tommy Fleetwood and Matthew Wolff compete in a long drive contest with the all-new SIM2 driver from TaylorMade Golf. With the new driver in hands, the best golfers in the world take on one another to see who can launch it the farthest. For the second year in a row, it came down to a select few.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/k9-m7-SzLM4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/k9-m7-SzLM4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/k9-m7-SzLM4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/k9-m7-SzLM4/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  }
+              },
+              "channelTitle": "TaylorMade Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-07-07T02:26:58Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "NUa3smLKn3Z0LH6M2N5s157BgTc",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "MY5SatbZMAo"
-        },
-        "snippet": {
-          "publishedAt": "2017-02-02T14:17:24Z",
-          "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-          "title": "What makes you special? | Mariana Atencio | TEDxUniversityofNevada",
-          "description": "NBC News journalist Mariana Atencio has traveled the world from Haiti to Hong Kong. In her TEDx talk, Mariana tells us how the people she's met along the way and her own immigrant experience have taught her that the only thing we all have in common is being human. Get ready to 'get human' and embrace what makes you different! Take a stand to defend your race: the human race!\n\nMariana Atencio is a Peabody Award-winning journalist, currently a national correspondent for NBC News and MSNBC. The Huffington Post called her ‘our Latina Christiane Amanpour’ and Jorge Ramos wrote: ‘Mariana is the next-gen voice for Latinos breaking all barriers.’ Mariana is known for combining in-studio work and high profile interviews like Pope Francis, with tenacious field reporting all over the world, covering youth-led protests in places like Ferguson, Mexico, Haiti and Hong Kong.\r\n\r\n\n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/MY5SatbZMAo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/MY5SatbZMAo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/MY5SatbZMAo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/MY5SatbZMAo/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/MY5SatbZMAo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "R17bP-viMkt8s4uBf51VCRIa7-g",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "sZ2-dqOausU"
           },
-          "channelTitle": "TEDx Talks",
-          "liveBroadcastContent": "none",
-          "publishTime": "2017-02-02T14:17:24Z"
-        }
+          "snippet": {
+              "publishedAt": "2020-07-22T20:15:48Z",
+              "channelId": "UCibYdxLmbYAsvAY6FRE0lBw",
+              "title": "HOW TO HIT YOUR IRONS PURE WITH THIS SIMPLE DRILL",
+              "description": "If you're wondering how to hit your irons pure, I have a simple drill for you.  Literally, within 10 minutes of doing this drill you'll be striking your irons more solidly and consistently than ever.\n\nPlease visit the link below and I will send you free samples from my Body Swing book and video series:  https://bodyswing.com/freesamples/\n\nSo many people struggle when hitting irons which is costing them a ton of shots.  This drill is not about hitting down on the ball.  It is not about forward shaft lean through impact.  It's not about changing your grip or anything else.   You may have tired those things in the past and they don't work because they have you hitting the ball with your arms.\n\nIf you want to hit your irons pure you need to stop doing all of those things.  This best drill for irons and it's totally different to anything you have ever tried in the past.  \n\nThe next time you're at the range give this a try.  I need you to tee up your ball.  Take out a mid iron and hit a whole bucket of balls doing this drill.   Then adjust as I explain in the tip as you get better at it.\n\nCorrection: 6:48\nHere I said squeeze against the ground.  Should be squeeze against the clubface.\n-------------------------------------------------\nMy Websites\n-------------------------------------------------\n\nhttps://ignitiongolf.com\nhttps://paulwilsongolf.com\nhttps://bodyswing.com \nhttps://swingmachinegolf.com \nhttp://howtohitdriver.com\n\n-------------------------------------------------\nMy App\n-------------------------------------------------\n\nWork with me live from anywhere in the world through my new app called COACHLINK.\nAvailable for both Apple and Android devices.  Watch a Demo here: https://www.coachlinkapp.com/demo/\n\n-------------------------------------------------\nMy Channels\n-------------------------------------------------\nhttps://www.youtube.com/paulwilsongolf\nhttps://www.youtube.com/ignitiongolftips\nhttps://www.youtube.com/thebodyswing\nhttps://www.youtube.com/swingmachinegolf\n\nTip Link:\n\nhttps://www.youtube.com/watch?v=sZ2-dqOausU",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/sZ2-dqOausU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/sZ2-dqOausU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/sZ2-dqOausU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/sZ2-dqOausU/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/sZ2-dqOausU/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Paul Wilson Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-07-22T20:15:48Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "KNUDNnHV2KwoYahVe9syv8sO7p4",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "P_6vDLq64gE"
-        },
-        "snippet": {
-          "publishedAt": "2011-10-13T19:33:04Z",
-          "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-          "title": "How to spot a liar | Pamela Meyer",
-          "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nOn any given day we're lied to from 10 to 200 times, and the clues to detect those lies can be subtle and counter-intuitive. Pamela Meyer, author of \"Liespotting,\" shows the manners and \"hotspots\" used by those trained to recognize deception -- and she argues honesty is a value worth preserving. (Contains mature content)\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/P_6vDLq64gE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/P_6vDLq64gE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/P_6vDLq64gE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/P_6vDLq64gE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            }
+          "kind": "youtube#searchResult",
+          "etag": "dycMXh1MaDknWQvFtcvgJGat4SI",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "kvAGW3m4KmE"
           },
-          "channelTitle": "TED",
-          "liveBroadcastContent": "none",
-          "publishTime": "2011-10-13T19:33:04Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-03-04T20:24:02Z",
+              "channelId": "UClJO9jvaU5mvNuP-XTbhHGw",
+              "title": "Building Rory McIlroy's Stealth Driver  | TaylorMade Golf",
+              "description": "Rory McIlroy is one of the best drivers of the golf ball in the history of the game, and this year he's been using the all-new Stealth Plus Driver from TaylorMade Golf. \n\nRory's game demands that his equipment be up to the task of making the most of his insane skills. That's where our Tour department, and people like @trottiegolf come in to play. Watch as Trottie describes in great detail how Rory's new driver is built from the ground up, including details on his his Fujikura Ventus shaft, the way he likes his grip built up to dialing in the precise swing weight Rory likes to feel. \n\nWith it's 60X Carbon Twist Face for more efficient energy transfer and faster ball speed, it's easy to see why Stealth Driver made it into Rory's bag to start the 2022 season.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/kvAGW3m4KmE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/kvAGW3m4KmE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/kvAGW3m4KmE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/kvAGW3m4KmE/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  }
+              },
+              "channelTitle": "TaylorMade Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-03-04T20:24:02Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "-XzEGV5Th1BKTT1p18AoMko7V18",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "VRJzvJ5XPQI"
-        },
-        "snippet": {
-          "publishedAt": "2021-10-15T19:29:36Z",
-          "channelId": "UCftwRNsjfRo08xYE31tkiyw",
-          "title": "Body Language Expert Explains How to Show Confidence | WIRED",
-          "description": "Former FBI agent and body language expert Joe Navarro explains how we can project confidence through our body language. Joe takes a look at various celebrities and politicians and demonstrates the things that they do that can help them appear more confident. \r\n\r\nCheck out Joe's book \"Be Exceptional\"\r\nhttps://www.amazon.com/Be-Exceptional-Master-Traits-Extraordinary-ebook/dp/B08K93BLQP/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=\r\n\r\nhttps://www.jnforensics.com/ \r\n\r\nBooks By Joe Navarro: https://www.jnforensics.com/books\r\nJoe Navarro Body Language Academy: https://jnbodylanguageacademy.com\n\nStill haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 \r\nListen to the Get WIRED podcast  ►► https://link.chtbl.com/wired-ytc-desc\r\nWant more WIRED? Get the magazine ►► https://subscribe.wired.com/subscribe/splits/wired/WIR_YouTube?source=EDT_WIR_YouTube_0_Video_Description_ZZ\r\n\r\nFollow WIRED:\r\n\r\nInstagram ►►https://instagram.com/wired\r\nTwitter ►►http://www.twitter.com/wired\r\nFacebook ►►https://www.facebook.com/wired\r\n\r\nGet more incredible stories on science and tech with our daily newsletter: https://wrd.cm/DailyYT\r\n\r\nAlso, check out the free WIRED channel on Roku, Apple TV, Amazon Fire TV, and Android TV. \r\n\r\nABOUT WIRED\r\nWIRED is where tomorrow is realized. Through thought-provoking stories and videos, WIRED explores the future of business, innovation, and culture.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "uTFb_sy08VSa3x5kb6vUy9vfg4k",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "FYdytwheyhk"
           },
-          "channelTitle": "WIRED",
-          "liveBroadcastContent": "none",
-          "publishTime": "2021-10-15T19:29:36Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-06-07T18:38:27Z",
+              "channelId": "UClJO9jvaU5mvNuP-XTbhHGw",
+              "title": "How Tiger Woods & Dustin Johnson Hit Bunker Shots & Chips | TaylorMade Golf",
+              "description": "It's a short game clinic with the current World No. 1 and one of the best of all time—and you've got a front row seat. Listen and watch as Tiger Woods and Dustin Johnson explain their techniques and swing thoughts for all kinds of different bunker shots, pitches and chips in this exclusive short game clinic from TaylorMade Golf. Both DJ and Tiger are using TaylorMade Milled Grind wedges in this tutorial, and DJ is using the TP5x golf ball.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/FYdytwheyhk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/FYdytwheyhk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/FYdytwheyhk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/FYdytwheyhk/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  }
+              },
+              "channelTitle": "TaylorMade Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-06-07T18:38:27Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "rFc0G6xJMC_9H_lLpaK6RC42BRQ",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "LnJwH_PZXnM"
-        },
-        "snippet": {
-          "publishedAt": "2020-03-01T15:06:08Z",
-          "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-          "title": "How not to take things personally? | Frederik Imbo | TEDxMechelen",
-          "description": "Frederik Imbo studied theatre at the Royal Conservatory of Ghent and has acted in lots of television series. He founded Imboorling and now has over 15 years' experience in stimulating and supporting people. With the aim of improving their communication skills Frederik gives presentations, workshops, training courses and personal coaching sessions to anyone prepared to make their two ears available. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/LnJwH_PZXnM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/LnJwH_PZXnM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/LnJwH_PZXnM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/LnJwH_PZXnM/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/LnJwH_PZXnM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "IfMhx40Dx783sA0JtmSUnONKeI0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "hw_9j-wWVTo"
           },
-          "channelTitle": "TEDx Talks",
-          "liveBroadcastContent": "none",
-          "publishTime": "2020-03-01T15:06:08Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-01-21T19:41:49Z",
+              "channelId": "UClJO9jvaU5mvNuP-XTbhHGw",
+              "title": "Team TaylorMade Stealth Long Drive Challenge | TaylorMade Golf",
+              "description": "Watch as Rory McIlroy, Dustin Johnson, Collin Morikawa, Tommy Fleetwood, Matthew Wolff and Sergio Garcia compete to see who can total the longest drive in the Team TaylorMade Stealth Long Drive Contest. This year's format is different. Each player gets to hit two shots and tally up their total yardage. If they're happy with their first two drives, they can keep that number, OR, they can elect to hit a Money Ball, which wipes out their previous two drives and now counts double. \n\nFore more info on Stealth Driver, visit https://tmgolf.co/IGStealthFamily.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/hw_9j-wWVTo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/hw_9j-wWVTo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/hw_9j-wWVTo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/hw_9j-wWVTo/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  }
+              },
+              "channelTitle": "TaylorMade Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-01-21T19:41:49Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "kCvyKYDZ_wxbYvuxurH7c4u1qeM",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "rrkrvAUbU9Y"
-        },
-        "snippet": {
-          "publishedAt": "2009-08-25T21:20:26Z",
-          "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-          "title": "The puzzle of motivation | Dan Pink",
-          "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nCareer analyst Dan Pink examines the puzzle of motivation, starting with a fact that social scientists know but most managers don't: Traditional rewards aren't always as effective as we think. Listen for illuminating stories -- and maybe, a way forward.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/rrkrvAUbU9Y/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/rrkrvAUbU9Y/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/rrkrvAUbU9Y/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/rrkrvAUbU9Y/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/rrkrvAUbU9Y/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "nPPYsJCNxPMjU0PcUfJxy2YiUSw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "5obIcxIgvVc"
           },
-          "channelTitle": "TED",
-          "liveBroadcastContent": "none",
-          "publishTime": "2009-08-25T21:20:26Z"
-        }
+          "snippet": {
+              "publishedAt": "2020-05-29T13:55:34Z",
+              "channelId": "UCkMOtD7MMYs1H55XH6CkWEw",
+              "title": "Tiger Woods Fixes Amateur Golf Swings",
+              "description": "A few weeks ago we asked fans to take the ultimate leap of faith by submitting a video of their swing to be critiqued by none other than Tiger Woods himself. Quite a few took the plunge, and Woods didn’t hold back with his analysis putting his golf IQ on full display. \n\nStill haven’t subscribed to Golf Digest on YouTube? ►► http://bit.ly/golfdigestyoutubesub\n \nABOUT GOLF DIGEST\nHome of the annual Hot List, instructional videos, news and trends, Golf Digest is the definitive destination for all-things golf.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/5obIcxIgvVc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/5obIcxIgvVc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/5obIcxIgvVc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/5obIcxIgvVc/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  }
+              },
+              "channelTitle": "Golf Digest",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-05-29T13:55:34Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "MiTpcxHWi8Naj_yef01SSGR_s-w",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "32HExHswuWQ"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-08T07:44:23Z",
-          "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-          "title": "Your body is talking to you, are you listening? | Lizzie Braicks-Rinker | TEDxUofW",
-          "description": "Lizzie dissects the wellness industrial complex and reframes health holistically.  Lizzie Braicks-Rinker is a well-rounded wellness enthusiast. With certifications in pilates, fitness, and health coaching, she is passionate about helping others navigate the modern world with less stress and anxiety.\nLizzie competed as a D1 rower in college until losing her mom to colon cancer. After losing her mom, Lizzie wanted to understand how to nourish herself spiritually, emotionally, and mentally. She's since become a passionate advocate for understanding wellness on a holistic level. The core of her work centers around learning how to listen to what our bodies and brains truly need, and to tune out toxic messaging that we receive around food, exercise, and body image.\nShe believes that being healthy is about more than just exercising — that it is also about feeding your soul with the things you love and having a healthy approach to life's challenges. Lizzie currently lives with her family and dogs in Seattle, WA. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/32HExHswuWQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/32HExHswuWQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/32HExHswuWQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/32HExHswuWQ/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/32HExHswuWQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "o4FCqZ2CQMcs2L1OZSgof5b9fco",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "t2qlEbLAMNs"
           },
-          "channelTitle": "TEDx Talks",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-08T07:44:23Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-06-29T09:36:44Z",
+              "channelId": "UCokFauAYvXnr3e9TZQFESIQ",
+              "title": "REALLY IMPORTANT IRON LESSON....DON'T OVERLOOK! Simple Golf Tips",
+              "description": "REALLY IMPORTANT IRON LESSON....DON'T OVERLOOK! Simple Golf Tips \n\nGetting the golf ball in the right position WITH DIFFERENT IRONS in your setup might seem like a simple thing, but it’s something many golfers struggle with and get in to bad habits with. In this golf lesson Matt Fryer Golf takes you through the ball positions with a long, mid and short iron  needed to hit better iron shots. By following the guide in this golf lesson you will be able to get the perfect ball position for each iron and see that you are getting the desired ball flight!.\n\nIf you watch all the professional golfers, from the likes of Rory McIlroy, Tiger Woods and dating back to the Likes of Gary Player and Jack Nicklaus, they are all very precise about where they put the ball in their stance and when making a standard golf the ball position with the relevant golf club is the same. \n\nGet the perfect ball position with the lesson and play better golf.\n\n► Official Apparel and footwear partner: Mizuno \nhttps://mizunogolf.com/uk/apparel/\n\n►Official Precision Pro Ambassador: \nhttps://www.precisionprogolf.com/\n\n► Launch Monitor: https://foresightsports.eu/launch-monitor-lp/?utm_source=Matt-Fryer&utm_medium=influencer&utm_campaign=Launch-Monitor\n\n► Hit #Subscribe & #HitTheBell so you don't miss out on any new videos! \n\nTO BOOK A LESSON WITH MATT FRYER AT TRAFFORD GOLF CENTRE\nCALL THE BOOKING LINE - 0161 749 700 \nMORE INFO - http://traffordgolfcentre.co.uk/lessons/lesson-packages/\nBecome a FREE SUBSCRIBER to MATT FRYER GOLF now\nhttps://www.youtube.com/user/Mattfryergolf\n-----------------------------------------------------------------------------------------------------------------\nHi I’m Matt Fryer, welcome to my channel MattFryerGolf. This YouTube channel is to help you play better golf and love the game even more!\n\nI specialise in golf lessons, golf club news and other entertaining golf content.\n\nI you want to play better golf I cover all topics in my golf lessons such as, how to fix your slice, fix your hook, help you drive the golf ball longer, hit your irons consistently , master your shortgame and hole more putts. \nI will also help you lower your score by giving you plans and tips on managing your game out on the golf course, with course vlogs and golf course scenarios, so you know exactly what to do you find yourself in a tricky situation.  \n\nOn this channel I also make fun and entertaining golf content from golfing trips I go on, showcasing some of the best golf courses and resorts in the world and giving you advice on where to visit and which golf courses to play.\n\nIf you enjoy the channel make sure you hit subscribe and also tap the notification bell so that you are always notified when I release a new video.\n\nEnjoy your golf!!\n\n#gold #mattfryergolf #subscribe",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/t2qlEbLAMNs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/t2qlEbLAMNs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/t2qlEbLAMNs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/t2qlEbLAMNs/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/t2qlEbLAMNs/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Matt Fryer Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-06-29T09:36:44Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "jD08y-NoucUj6DcYqMqKPyYcJm0",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "RKK7wGAYP6k"
-        },
-        "snippet": {
-          "publishedAt": "2018-04-05T20:17:43Z",
-          "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-          "title": "How language shapes the way we think | Lera Boroditsky",
-          "description": "There are about 7,000 languages spoken around the world -- and they all have different sounds, vocabularies and structures. But do they shape the way we think? Cognitive scientist Lera Boroditsky shares examples of language -- from an Aboriginal community in Australia that uses cardinal directions instead of left and right to the multiple words for blue in Russian -- that suggest the answer is a resounding yes. \"The beauty of linguistic diversity is that it reveals to us just how ingenious and how flexible the human mind is,\" Boroditsky says. \"Human minds have invented not one cognitive universe, but 7,000.\"\n\nCheck out more TED Talks: http://www.ted.com\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.\n\nFollow TED on Twitter: http://www.twitter.com/TEDTalks\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: https://www.youtube.com/TED",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "JyZ3LB9LdGjh7iJugpF73ORuyYo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "9XhRgYaY6Ko"
           },
-          "channelTitle": "TED",
-          "liveBroadcastContent": "none",
-          "publishTime": "2018-04-05T20:17:43Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-11-16T15:56:22Z",
+              "channelId": "UCKwGZZMrhNYKzucCtTPY2Nw",
+              "title": "Collin Morikawa | Swing Theory | Driver, iron, wedge",
+              "description": "Take an enhanced look at the golf swing of 2022 United States Presidents Cup Team member Collin Morikawa with analysis from CBS Sports and PGA TOUR LIVE Commentator Mark Immelman, including a deeper breakdown of the nuances of the American’s driver, iron, and wedge swings. The University of California graduate is also a two-time major champion and was a member of the winning team in the 2021 Ryder Cup.\n\n0:00-1:04 Intro\n\n1:04-4:15 Driver - Back\n\n4:15-7:57 Driver - Side\n\n7:57-10:46 Iron\n\n10:46-12:05 Wedge\n\n12:05-12:47 Close\n\nSUBSCRIBE to PGA TOUR now: http://pgat.us/vBxcZSh \r\n\r\nWelcome to the official YouTube channel of the PGA TOUR. Here you can find everything you need to stay up to date with the world’s foremost golf tour. Check in for highlights from every tournament plus player interviews, player profiles, tournament previews, swing analysis and all the greatest shots and amazing moments.\r\n\r\nCheck out https://www.pgatour.com for complete coverage along with all the latest news, scoring, and stats!\r\n\r\nFollow PGA TOUR online:\r\nInstagram: https://instagram.com/pgatour/  \r\nFacebook: https://www.facebook.com/PGATour  \r\nTwitter: https://twitter.com/PGATOUR\r\nTikTok: https://tiktok.com/@pgatour\r\nSoundCloud: https://soundcloud.com/pgatour\r\n\r\nSign up for exclusive coverage - http://www.pgatourlive.com\r\nPGA TOUR Superstore - http://www.pgatoursuperstore.com/",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/9XhRgYaY6Ko/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/9XhRgYaY6Ko/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/9XhRgYaY6Ko/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/9XhRgYaY6Ko/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/9XhRgYaY6Ko/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "PGA TOUR",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-16T15:56:22Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "47YC8xGU-NcZaCnaRL0be3HdLws",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "w-HYZv6HzAs"
-        },
-        "snippet": {
-          "publishedAt": "2012-01-13T19:42:36Z",
-          "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-          "title": "The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU",
-          "description": "Never miss a talk! SUBSCRIBE to the TEDx channel: http://bit.ly/1FAg8hB\n\nAs the Athletic Director and head coach of the Varsity Soccer team at Ryerson University, Dr. Joseph is often asked what skills he is searching for as a recruiter: is it speed? Strength? Agility? In Dr. Joseph's TEDx Talk, he explores self confidence and how it is not just the most important skill in athletics, but in our lives.\n \nIn the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.* (*Subject to certain rules and regulations)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/w-HYZv6HzAs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/w-HYZv6HzAs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/w-HYZv6HzAs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/w-HYZv6HzAs/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/w-HYZv6HzAs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "hCjDtuetE5OlO9GbbwDtK1fF7K8",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "hd9D7H3GaoY"
           },
-          "channelTitle": "TEDx Talks",
-          "liveBroadcastContent": "none",
-          "publishTime": "2012-01-13T19:42:36Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-02-10T11:24:38Z",
+              "channelId": "UCZ5fOnOmQunH18xZGhu9f_Q",
+              "title": "Every Shot | Collin Morikawa Final Round | 149th Open Championship",
+              "description": "Collin Morikawa had a dream Open Championship debut in 2021. \n\nRoyal St George’s hosted the long-awaited 149th Open, where Morikawa won the Claret Jug in his first appearance at The Open.\n\nThe American went toe-to-toe with two former champions, Jordan Spieth and Louis Oosthuizen on the last day to emerge victorious and added another major title to his PGA Championship from 2020.\n\nTake this time to enjoy every shot from the incredible final round that capped off Morikawa’s Open debut.\n\nVisit www.TheOpen.com for the greatest stories in golf\n\nKeep in touch with us!\nFacebook - https://www.facebook.com/The-Open-Championship/ \nTwitter - https://twitter.com/TheOpen \nInstagram - https://www.instagram.com/theopen/\nTo LICENSE The Open footage, please contact IMG REPLAY   ▶ https://bit.ly/306V7dI",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/hd9D7H3GaoY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/hd9D7H3GaoY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/hd9D7H3GaoY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/hd9D7H3GaoY/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/hd9D7H3GaoY/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "The Open",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-02-10T11:24:38Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "TWyyzua2idIt5YTgLes03OiffbI",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "Lp7E973zozc"
-        },
-        "snippet": {
-          "publishedAt": "2011-06-11T22:43:26Z",
-          "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-          "title": "How to stop screwing yourself over | Mel Robbins | TEDxSF",
-          "description": "Never miss a talk! SUBSCRIBE to the TEDx channel: http://bit.ly/1FAg8hB\n\nMel Robbins is a married working mother of three, an ivy-educated criminal lawyer, and one of the top career and relationship experts in America.  Widely respected for her grab-'em-by-the-collar advice and tough love, Robbins drills through the mental clutter that stands between people and what they want.  Her approach is smart, effective and entertaining. Five days a week, Mel hosts her own syndicated radio show The Mel Robbins Show, discussing hot topics and giving advice to callers across America.  She is starring in a new series, In-Laws, airing this summer on A&E. In addition, she writes a monthly column for Success Magazine, is a former CNBC contributor and is the co-founder of Advice for Living, Inc., which develops products and television programming with experts in the wellness, health, relationship and career categories.\n\nMost nights, once the kids are in bed, you'll find Mel at home with a bourbon on the rocks and her Australian Shepherd at her feet, writing about life, love and everything else on her award-winning blog: www.melrobbins.com\n\nevent video by: http://repertoireproductions.com/",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Lp7E973zozc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Lp7E973zozc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Lp7E973zozc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Lp7E973zozc/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Lp7E973zozc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "v1piP7tBJFL-HQGvQpne3bxxHk4",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Ug-HzOS5dc8"
           },
-          "channelTitle": "TEDx Talks",
-          "liveBroadcastContent": "none",
-          "publishTime": "2011-06-11T22:43:26Z"
-        }
+          "snippet": {
+              "publishedAt": "2019-08-20T13:18:06Z",
+              "channelId": "UCsZsn_S93Zs8JOdKMRbklmg",
+              "title": "U.S. Open Epics - Tiger Woods: Perfection at Pebble",
+              "description": "An in-depth look at Tiger Woods' historic 15-stroke victory in the 2000 U.S. Open at Pebble Beach (Calif.) Golf Links, accepted by many to be the most dominant performance in the history of the game. See how Woods took the exceedingly high expectations that had already been placed on him, and made fans and pundits alike believe he would surpass all of them. Produced in 2019.\n\nFor the full library of historic footage about golf's iconic moments and figures, get the FREE USGA streaming app for Apple TV and Roku.\n\nStream the USGA on Apple TV: https://apps.apple.com/us/app/usga/id1344919935\n\nStream the USGA on Roku: https://channelstore.roku.com/details/277489/usga",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Ug-HzOS5dc8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Ug-HzOS5dc8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Ug-HzOS5dc8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/Ug-HzOS5dc8/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  }
+              },
+              "channelTitle": "United States Golf Association (USGA)",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-08-20T13:18:06Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "3Im9kWI-pB_HBPHhx0KZUijJUDI",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "d0yGdNEWdn0"
-        },
-        "snippet": {
-          "publishedAt": "2013-11-20T22:57:17Z",
-          "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-          "title": "How to learn any language in six months | Chris Lonsdale | TEDxLingnanUniversity",
-          "description": "Never miss a talk! SUBSCRIBE to the TEDx channel: http://bit.ly/1FAg8hB\n\nChris Lonsdale is Managing Director of Chris Lonsdale & Associates, a company established to catalyse breakthrough performance for individuals and senior teams. In addition, he has also developed a unique and integrated approach to learning that gives people the means to acquire language or complex technical knowledge in short periods of time. \n\nJan-21-2014 Update.  The video transcripts are now available via the following links:\n\nEnglish Only:\nhttp://www.the-third-ear.com/files/TEDx-ChrisLonsdale-LearnAnyLanguage6Months.pdf\n\nEnglish + Chinese Translation:\nhttp://www.kungfuenglish.com/files/TEDx-ChrisLonsdale-LearnAnyLanguage6Months-ENG-CHS.pdf\n\nIn the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.* (*Subject to certain rules and regulations)",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/d0yGdNEWdn0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/d0yGdNEWdn0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/d0yGdNEWdn0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/d0yGdNEWdn0/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/d0yGdNEWdn0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "w2op47QPv4IqyB4ICvF9wmj4ptw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "-9KId7Q0NR4"
           },
-          "channelTitle": "TEDx Talks",
-          "liveBroadcastContent": "none",
-          "publishTime": "2013-11-20T22:57:17Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-09-09T09:20:39Z",
+              "channelId": "UCSwdmDQhAi_-ICkAvNBLEBw",
+              "title": "Why 90% of golfers can't strike their irons...",
+              "description": "This is why you struggle to strike your irons pure and make solid contact 👇\n\n1. Your sternum is not positioned correctly at address\n2. Your forearms are not in line at set up - BIG ONE\n3. Your posture is misaligned at set up \n4. You turn in the golf swing as apposed to pivot\n5. You don't have control over the club face \n\nWhat's great is if you have any one of these faults in your golf swing they are really easy to fix and can make an instant impact on the quality of your ball striking not just with your irons but with your driver too.\n\nFor example if you want to hit your driver straight just getting the forearms aligned at address will be a real eye opener for you.\n\nPRACTICE PLAN\nHere's the practice plan and summary of this weeks lesson\n⛳️https://www.dannymaude.com/practice-plans-detail?productId=why-90percent-of-golfers-cant-strike-their-irons&widget=hidden\n#simplegolftips #subscribe #dannymaudegolf\n\nJoin his facebook Community here: https://www.facebook.com/dannymaudefan\n\nWATCH NEXT\n○ 3 Things that DESTROY your game (easy to fix) - https://youtu.be/dVBQJCo5qIc\n○ Easiest Way to Improve ANY Golf Swing - https://youtu.be/cf79tCny7sc\n○ The Perfect Takeaway Drill - https://youtu.be/iUSXTeTyCJA\n○ Why 90% of golfers don't hit driver straight  - https://youtu.be/miXs_Oj_BzM\n○ Simplest Short Game Technique - https://youtu.be/HxvAJNqdxOU\n\nCOME SAY HI!\n○ Website: https://dannymaude.com\n○ Instagram: https://www.instagram.com/dannymaude\n○ Facebook: https://www.facebook.com/dannymaudefan\n○ Twitter: https://www.twitter.com/dannymaude\n#dannymaudegolf #golftips #golfswing\n\nBOOK A GOLF LESSON\n▶EMAIL: support@dannymaude.com\n▶ Visit My Website: https://dannymaude.com\n\nFREE TRAINING TO IMPROVE YOUR GAME\n▶Join my weekly newsletter -https://dannymaude.com/p/newsletter-sign-up\n▶ Join My YouTube Channel for Free - https://www.youtube.com/channel/UCSwdmDQhAi_-ICkAvNBLEBw?sub_confirmation=1\n\nTRAINING AID I RECOMMEND - THE ORANGE WHIP\n▶GOLFERS FROM THE US wanting to learn more about this weeks training aid just click the link below.  \nhttps://orangewhipgolf.com/discount/dannym?redirect=%2Fcollections%2Fall-products\nIf you decide to purchase this will give you US $10 dollars off.  \n\n▶FOR ALL GOLFERS IN EUROPE - visit perfectmygolf.co.uk and use the discount code DANNY\n#golftips #driverswingtips #dannymaudegolf\n\n-----------------------\nABOUT DANNY\n-----------------------\nThanks for stopping by.  I created this website as a resource just for you to support you on your golfing journey as I know how tricky learning this game can be…to say the least!\n\nI personally found learning the game too long and difficult in the early days. I read all the books, watched all the videos but my game was not improving. Then after studying various forms of neuro science, motor learning, psychology and personal development in less than two years I went from struggling golfer to the final stage of the Open Championship.\n\nOn YouTube and my personal website (www.dannymaude.com) I will bring you the most up to date training, training that is getting tangible results for my clients right now.  I don’t know where you are in your golfing journey, you could be just starting out or maybe your body isn’t as flexible as it once was or you’ve got ambitions to slash your handicap.  Wherever you are I’ve created a place here you can learn, share your ideas, ask questions and get all the support you need to enjoy this great game.\n\nBe prepared though. If its a quick fix you are after Im not your man. Here I will give you step-by-step advice that you can take straight to the practice ground and apply to the course but it will require you to get stuck in, screw up…a lot, practice some more and then watch those scores tumble\n\nI’ve had the pleasure of coaching thousands of students all around the world and if you are up for the challenge and are ready to get in the game…LETS GO TO WORK!\n\n-----------------------\nSUBSCRIBE!!\n-----------------------\nhttps://www.youtube.com/channel/UCSwdmDQhAi_-ICkAvNBLEBw?sub_confirmation=1\n\nThis golf lesson provides a couple of wonderful drills to help you hit your driver straight.If you are a beginner golfer and are looking for some golf driver tips that are simple and easy to do then you are going to love this.\n\nI will show you the golf swing slow motion so that you can see what you need to do to improve.\n\nWe look at 3 things:\n\n1. How to stop slicing your driver\n2. How to swing more in to out or how to swing more inside out\n3, How to get the correct impact position with driver\n\nand I hope to do all this with simple golf tips so you can create an effortless golf swing",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/-9KId7Q0NR4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/-9KId7Q0NR4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/-9KId7Q0NR4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/-9KId7Q0NR4/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/-9KId7Q0NR4/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Danny Maude",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-09-09T09:20:39Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "3O5JXA-MLLDMdpfoaJAOPuGVbsE",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "arj7oStGLkU"
-        },
-        "snippet": {
-          "publishedAt": "2016-03-15T20:13:33Z",
-          "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-          "title": "Tim Urban: Inside the mind of a master procrastinator | TED",
-          "description": "Tim Urban knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window -- and encourages us to think harder about what we're really procrastinating on, before we run out of time.\n\nFor more from Tim Urban, visit Wait But Why: http://www.waitbutwhy.com/\n\nVisit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/arj7oStGLkU/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/arj7oStGLkU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/arj7oStGLkU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/arj7oStGLkU/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/arj7oStGLkU/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "TYi5O0CG_-xArHIIJqhks6Sjuvg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "LsQgZzkpppw"
           },
-          "channelTitle": "TED",
-          "liveBroadcastContent": "none",
-          "publishTime": "2016-03-15T20:13:33Z"
-        }
+          "snippet": {
+              "publishedAt": "2020-11-09T21:30:48Z",
+              "channelId": "UClJO9jvaU5mvNuP-XTbhHGw",
+              "title": "Tiger Woods, Rory McIlroy & Jason Day Short Game Session | TaylorMade Golf",
+              "description": "Tiger Woods, Rory McIlroy and Jason Day break down all things short game, from chip shots to bunker play, in this in-depth conversation filmed at the TaylorMade Photoshoot. What is the one piece of advice you're away taking from this video?",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/LsQgZzkpppw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/LsQgZzkpppw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/LsQgZzkpppw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/LsQgZzkpppw/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  }
+              },
+              "channelTitle": "TaylorMade Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-11-09T21:30:48Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "Q-sQ3AVceFZLxlQhbNAryWfn2aE",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "cFLjudWTuGQ"
-        },
-        "snippet": {
-          "publishedAt": "2014-05-12T21:41:29Z",
-          "channelId": "UCGwuxdEeCf0TIA2RbPOj-8g",
-          "title": "Make Body Language Your Superpower",
-          "description": "Body language, both the speaker's and the audience's, is a powerful form of communication that is difficult to master, especially if the speaker is nervous. This video will teach you how to use your body language effectively, read the audience's body language and what to do when they look bored or disconnected. Use these tools to enhance your nonverbal communication abilities and better connect with your audiences.\nPresented by Stanford graduate students Matt Levy, Colin Bailie, Jeong Joon Ha, and Jennifer Rosenfeld. Created as an exemplary final project in Lecturer JD Schramm's Strategic Communication course. Learn more about communication techniques and best practices on \"Think Fast, Talk Smart: The Podcast.\" https://www.gsb.stanford.edu/insights/think-fast-talk-smart-podcast",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "0q5qTuWhogUNpJo_eiNPy3Uavfc",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "3YgSmKAgatM"
           },
-          "channelTitle": "Stanford Graduate School of Business",
-          "liveBroadcastContent": "none",
-          "publishTime": "2014-05-12T21:41:29Z"
-        }
+          "snippet": {
+              "publishedAt": "2022-05-03T18:35:32Z",
+              "channelId": "UCKwGZZMrhNYKzucCtTPY2Nw",
+              "title": "The Life: Collin Morikawa | PGA TOUR Originals",
+              "description": "Five-time PGA TOUR winner Collin Morikawa returns to his roots in La Cañada, CA near Los Angeles to retrace the steps that shaped his rapid success on the game’s biggest stage, visiting his former high school and the country club where he honed his game in The Life: Morikawa presented by Zurich.\n\nSUBSCRIBE to PGA TOUR now: http://pgat.us/vBxcZSh \r\n\r\nWelcome to the official YouTube channel of the PGA TOUR. Here you can find everything you need to stay up to date with the world’s foremost golf tour. Check in for highlights from every tournament plus player interviews, player profiles, tournament previews, swing analysis and all the greatest shots and amazing moments.\r\n\r\nCheck out https://www.pgatour.com for complete coverage along with all the latest news, scoring, and stats!\r\n\r\nFollow PGA TOUR online:\r\nInstagram: https://instagram.com/pgatour/  \r\nFacebook: https://www.facebook.com/PGATour  \r\nTwitter: https://twitter.com/PGATOUR\r\nTikTok: https://tiktok.com/@pgatour\r\nSoundCloud: https://soundcloud.com/pgatour\r\n\r\nSign up for exclusive coverage - http://www.pgatourlive.com\r\nPGA TOUR Superstore - http://www.pgatoursuperstore.com/",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/3YgSmKAgatM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/3YgSmKAgatM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/3YgSmKAgatM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/3YgSmKAgatM/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/3YgSmKAgatM/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "PGA TOUR",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-05-03T18:35:32Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "uLSvcE4X_HxT6i1BYfjjyJF1igo",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "_v36Vt9GmH8"
-        },
-        "snippet": {
-          "publishedAt": "2016-05-02T17:33:45Z",
-          "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-          "title": "Body Language: The Key to Your Subconscious | Ann Washburn | TEDxIdahoFalls",
-          "description": "How we hold our body both demonstrates and determines who we are and our level of success.  What are you telling people about yourself? Or worse, what are you telling your self about yourself? \n\nHow we hold our body both demonstrates and determines who we are and our level of success.  What are you telling people about yourself? Or worse, what are you telling your self about yourself? \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/_v36Vt9GmH8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/_v36Vt9GmH8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/_v36Vt9GmH8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/_v36Vt9GmH8/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/_v36Vt9GmH8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "S3K8iwmXkwcSaUZjwtqrNcz_iwY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "NxzumhNDqTA"
           },
-          "channelTitle": "TEDx Talks",
-          "liveBroadcastContent": "none",
-          "publishTime": "2016-05-02T17:33:45Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-04-14T15:55:15Z",
+              "channelId": "UCFHZHhZaH7Rc_FOMIzUziJA",
+              "title": "How to: hit PERFECT iron shots!",
+              "description": "►Become a FREE SUBSCRIBER to RICK SHIELS now \nhttp://bit.ly/SubRickShielsGolf\n\n►Official Garmin Ambassador: \nhttps://explore.garmin.com/en-GB/golf/\n\n► Hit #Subscribe & #HitTheBell so you don't miss out on any new videos! \n-----------------------------------------------------------------------------------\n►My Links:\nFacebook  ► https://www.facebook.com/RickShielsPGA/\nTwitter       ► http://bit.ly/RickShielsTwitter\nInstagram ► http://bit.ly/RickShielsIG\nWeb           ► http://www.rickshielsgolf.co.uk/\n---------------------------------------------------------------------------------\n\nHi I’m Rick Shiels, welcome to my channel RickShielsPGAGolf. This YouTube channel is designed to help you play better golf, also to help you enjoy your golf more! \n\nI specialise in golf club reviews, golf club unboxing, golf club news, golf club head to heads, and all about golf clubs. \n\nI also want to make you play better golf by providing coaching video on all topics about golf, how to fix your slice, fix your hook, help you drive the golf ball longer, hit your irons more pure, hit your irons closer to the hole and help you draw and fade your golf shots. \nI will also help you lower your score by chipping better by stopping you duff and thin chips, pitch the ball closer and also create backspin. Also I will provide you help to putt better and hole more putts! \n\nOn this channel I also make fun and entertaining golf content based on crazy and sometimes “gimmicky” golf clubs. I like to cut through the marketing hype about products and I like to give you the honest truth about golf equipment. \n\nIf you enjoy the channel make sure you hit subscribe and also tap the notification bell so that you are always notified when I release a new video.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/NxzumhNDqTA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/NxzumhNDqTA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/NxzumhNDqTA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/NxzumhNDqTA/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/NxzumhNDqTA/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Rick Shiels Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-04-14T15:55:15Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "3oLLzExGQYDl315f66JNGlmQsJk",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "o_XVt5rdpFY"
-        },
-        "snippet": {
-          "publishedAt": "2019-01-04T16:20:17Z",
-          "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-          "title": "The secrets of learning a new language | Lýdia Machová",
-          "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWant to learn a new language but feel daunted or unsure where to begin? You don't need some special talent or a \"language gene,\" says Lýdia Machová. In an upbeat, inspiring talk, she reveals the secrets of polyglots (people who speak multiple languages) and shares four principles to help unlock your own hidden language talent -- and have fun while doing it.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nBecome a TED Member: http://ted.com/membership\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/o_XVt5rdpFY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/o_XVt5rdpFY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/o_XVt5rdpFY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/o_XVt5rdpFY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/o_XVt5rdpFY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
+          "kind": "youtube#searchResult",
+          "etag": "iV9lnnj3mvOdqABoe8ru7BwmyI8",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "kVNXo9vCjOA"
           },
-          "channelTitle": "TED",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-01-04T16:20:17Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-12-22T13:30:03Z",
+              "channelId": "UCKwGZZMrhNYKzucCtTPY2Nw",
+              "title": "Craziest shots of the year on the PGA TOUR | 2021",
+              "description": "You never know what you might see on the golf course. Check out some of the craziest moments from the 2021 PGA TOUR season excluding majors, featuring incredible hole-outs, awesome shot-shaping and lucky bounces.\n\nSUBSCRIBE to PGA TOUR now: http://pgat.us/vBxcZSh\r\n\r\nAll the best moments on the PGA TOUR in 2021.\r\n\r\nWelcome to the official YouTube channel of the PGA TOUR.\r\n\r\nHere you can find everything you need to stay up to date with the world’s foremost golf tour. Check in for highlights from every tournament plus player profiles, swing analysis and all the greatest shots and amazing moments.\r\n\r\nCheck out https://www.pgatour.com for complete coverage along with all the latest news, scoring, and stats!\r\n\r\nFollow PGA TOUR online:\r\nInstagram: https://instagram.com/pgatour/  \r\nFacebook: https://www.facebook.com/PGATour  \r\nTwitter: https://twitter.com/PGATOUR\r\nSoundCloud: https://soundcloud.com/pgatour\r\n\r\nSign up for exclusive coverage - http://www.pgatourlive.com\r\nPGA TOUR Superstore - http://www.pgatoursuperstore.com/",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/kVNXo9vCjOA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/kVNXo9vCjOA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/kVNXo9vCjOA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/kVNXo9vCjOA/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/kVNXo9vCjOA/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "PGA TOUR",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-12-22T13:30:03Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "HVf-FXA6IBmMZPo7J0colWJX5LY",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "TFbv757kup4"
-        },
-        "snippet": {
-          "publishedAt": "2015-12-04T03:56:36Z",
-          "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-          "title": "The Secret of Becoming Mentally Strong | Amy Morin | TEDxOcala",
-          "description": "Everyone has the ability to build mental strength, but most people don't know how. \r\nWe spend a lot of time talking about physical strength and physical health, but much less time on mental strength and mental health. \r\nWe can choose to perform exercises that will help us learn to regulate our thoughts, manage our emotions, and behave productively despite our circumstances - the 3 basic factors of mental strength. No matter what your goals are, building mental strength is the key to reaching your greatest potential.\n\nAmy Morin is a licensed clinical social worker and psychotherapist. Since 2002, she has been counseling children, teens, and adults. She also works as an adjunct psychology instructor.\r\n \r\nAmy’s expertise in mental strength has attracted international attention. Her bestselling book, 13 Things Mentally Strong People Don’t Do, is being translated into more than 20 languages.\r\n \r\nAmy’s advice has been featured by a number of media outlets, including: Time, Fast Company, Good Housekeeping, Business Insider, Elle, Cosmopolitan, Success, Glamour, Oprah.com, TheBlaze TV, and Fox News. She has also been a guest on dozens of radio shows.\r\n \r\nShe is a regular contributor to Forbes, Inc., and Psychology Today. She serves as About.com’s Parenting Teens Expert and Discipline Expert.\r\n \r\nAs a frequent keynote speaker, Amy loves to share the latest research on resilience and the best strategies for overcoming adversity and building mental muscle.\r\n\n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/TFbv757kup4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/TFbv757kup4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/TFbv757kup4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "xhQzYk0ZnLocbgGwxEaiPJxBg1U",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "2vGsu_O9dGM"
           },
-          "channelTitle": "TEDx Talks",
-          "liveBroadcastContent": "none",
-          "publishTime": "2015-12-04T03:56:36Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-10-05T19:56:21Z",
+              "channelId": "UClJO9jvaU5mvNuP-XTbhHGw",
+              "title": "Team TaylorMade UNCUT SIM2 Driver Range Session | TaylorMade Golf",
+              "description": "Watch as Tiger Woods, Rory McIlroy, Dustin Johnson, Collin Morikawa, Matthew Wolff and Tommy Fleetwood hit the range to warm up and start swinging the new SIM2 lineup for the very first time.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/2vGsu_O9dGM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/2vGsu_O9dGM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/2vGsu_O9dGM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/2vGsu_O9dGM/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  }
+              },
+              "channelTitle": "TaylorMade Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-10-05T19:56:21Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "jieuysINjPyLOOsxmrCynEGNn1Q",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "MdZAMSyn_As"
-        },
-        "snippet": {
-          "publishedAt": "2017-06-12T22:17:26Z",
-          "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-          "title": "The Skill of Humor | Andrew Tarvin | TEDxTAMU",
-          "description": "Humor is something that transcends most barriers. It is a common unification; a concept understood by all. Despite this, there exists a large portion of the population that does not think they can utilize humor. Andrew Tarvin will show you that everyone can use humor. \n\nAndrew Tarvin is the world’s first Humor Engineer teaching people how to get better results while having more fun. He has worked with thousands of people at 200+ organizations, including P&G, GE, and Microsoft. Combining his background as a project manager at Procter & Gamble with his experience as an international comedian, Andrew’s program are engaging, entertaining, and most important, effective. He is a best-selling author, has been featured in The Wall Street Journal, Forbes, and TEDx, and has delivered programs in 50 states, 18 countries, and 3 continents. He loves the color orange and is obsessed with chocolate.\n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/MdZAMSyn_As/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/MdZAMSyn_As/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/MdZAMSyn_As/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/MdZAMSyn_As/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            }
+          "kind": "youtube#searchResult",
+          "etag": "JIdfJFIFOcSGr0Dc_a2PvANNotg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "lJ9EOO0_jzI"
           },
-          "channelTitle": "TEDx Talks",
-          "liveBroadcastContent": "none",
-          "publishTime": "2017-06-12T22:17:26Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "m6XQ--j13A8HLZocvDpwiFbHiLE",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "5MuIMqhT8DM"
-        },
-        "snippet": {
-          "publishedAt": "2019-05-10T14:19:57Z",
-          "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-          "title": "Sleep is your superpower | Matt Walker",
-          "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nSleep is your life-support system and Mother Nature's best effort yet at immortality, says sleep scientist Matt Walker. In this deep dive into the science of slumber, Walker shares the wonderfully good things that happen when you get sleep -- and the alarmingly bad things that happen when you don't, for both your brain and body. Learn more about sleep's impact on your learning, memory, immune system and even your genetic code -- as well as some helpful tips for getting some shut-eye.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nBecome a TED Member: http://ted.com/membership\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/5MuIMqhT8DM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/5MuIMqhT8DM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/5MuIMqhT8DM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/5MuIMqhT8DM/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/5MuIMqhT8DM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "TED",
-          "liveBroadcastContent": "none",
-          "publishTime": "2019-05-10T14:19:57Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "1_LL2HJ1EEhpSOTL3WPqjldkYHo",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "NcKLNP8x_QA"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-05T16:06:51Z",
-          "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-          "title": "The Habit That Could Improve Your Career | Paul Catchlove | TED",
-          "description": "Paul Catchlove believes strongly in the power of reflection. Through every career he's held -- from priest to opera singer to senior management consultant -- he's benefitted from a habit of considering and analyzing his goals, needs and performance. Learn more about how a regular practice of reflection can improve your decision-making, career and relationships.\n\nIf you love watching TED Talks like this one, become a TED Member to support our mission of spreading ideas: http://ted.com/membership\n\nFollow TED! \nTwitter: http://twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: http://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/paulcatchlove\n\nhttps://youtu.be/NcKLNP8x_QA\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #reflection",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/NcKLNP8x_QA/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/NcKLNP8x_QA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/NcKLNP8x_QA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/NcKLNP8x_QA/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/NcKLNP8x_QA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "TED",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-05T16:06:51Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "iViUNRzngywLpDiYmtLHGz69dJ8",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "LNHBMFCzznE"
-        },
-        "snippet": {
-          "publishedAt": "2015-12-15T16:45:58Z",
-          "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-          "title": "After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver",
-          "description": "In a classic research-based TEDx Talk, Dr. Lara Boyd describes how neuroplasticity gives you the power to shape the brain you want. Recorded at TEDxVancouver at Rogers Arena on November 14, 2015.\n\nYouTube Tags: brain science, brain, stroke, neuroplasticity, science, motor learning, identity, TED, TEDxVancouver, TEDxVancouver 2015, Vancouver, TEDx, Rogers Arena, Vancouver speakers, Vancouver conference, ideas worth spreading, great idea,\n\nOur knowledge of the brain is evolving at a breathtaking pace, and Dr. Lara Boyd is positioned at the cutting edge of these discoveries. In 2006, she was recruited by the University of British Columbia to become the Canada Research Chair in Neurobiology and Motor Learning. Since that time she has established the Brain Behaviour Lab, recruited and trained over 40 graduate students, published more than 80 papers and been awarded over $5 million in funding. \n\nDr. Boyd’s efforts are leading to the development of novel, and more effective, therapeutics for individuals with brain damage, but they are also shedding light on broader applications. By learning new concepts, taking advantage of opportunities, and participating in new activities, you are physically changing who you are, and opening up a world of endless possibility. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/LNHBMFCzznE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/LNHBMFCzznE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/LNHBMFCzznE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/LNHBMFCzznE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/LNHBMFCzznE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "TEDx Talks",
-          "liveBroadcastContent": "none",
-          "publishTime": "2015-12-15T16:45:58Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "uJ1vSNDNZggZjbVOsAhfYSdkrWY",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "5Yhf0wBFtvY"
-        },
-        "snippet": {
-          "publishedAt": "2015-01-09T10:00:11Z",
-          "channelId": "UCKmkpoEqg1sOMGEiIysP8Tw",
-          "title": "Brutally Honest Advice From Steve Jobs | BEST SPEECH Ever! (HQ Version)",
-          "description": "Check out these books about Steve Jobs: \n* Steve Jobs: https://amzn.to/2PGH3nM\n* The Presentation Secrets of Steve Jobs: https://amzn.to/2JB1j55\n* Becoming Steve Jobs: https://amzn.to/2QgZKf8\n* Steve Jobs: The Man Who Thought Differently: https://amzn.to/2AHIqdQ\n* Steve Jobs (Movie): https://amzn.to/2CZgLq3\n\n* Join my BELIEVE newsletter: http://www.evancarmichael.com/newsletter/\n\nENGAGE\n* Subscribe to my channel: http://www.youtube.com/subscription_center?add_user=Modelingthemasters\n* Leave a comment, thumbs up the video (please!)\n* Suppport me: http://www.evancarmichael.com/support/\n\nCONNECT\n* Twitter: https://twitter.com/evancarmichael\n* Facebook: https://www.facebook.com/EvanCarmichaelcom\n* Google+: https://plus.google.com/108469771690394737405/posts\n* Website: http://www.evancarmichael.com \n\nEVAN\n* About: http://www.evancarmichael.com/about/\n* Products: http://www.evancarmichael.com/zhuge/\n* Coaching: http://www.evancarmichael.com/movement/\n* Speaking: http://www.evancarmichael.com/speaking/\n\nSCHEDULE\n* Mon - 1 Minute Mondays: https://www.youtube.com/playlist?list=PLiZj-Ik9MmM2HwduoMCpvZRhd2qE22Fg-\n* Tues - Tech Tuesdays: https://www.youtube.com/playlist?list=PLiZj-Ik9MmM3NGvdl33mEwdUdr19zti9s\n* Thurs - Thankful Thursdays: https://www.youtube.com/playlist?list=PLiZj-Ik9MmM2Scsq-0Er3mA8U3Kqz9fiV\n* Fri - Famous Fridays: https://www.youtube.com/playlist?list=PLiZj-Ik9MmM30QoA2ygo5RWzfQm8y7ScL\n* Sun - Famous Failures: https://www.youtube.com/playlist?list=PLiZj-Ik9MmM2aeaKPqI5ILrNcLjbQZDob\n* Your Questions - Every day!\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/FxTj/",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/5Yhf0wBFtvY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/5Yhf0wBFtvY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/5Yhf0wBFtvY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/5Yhf0wBFtvY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/5Yhf0wBFtvY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Evan Carmichael",
-          "liveBroadcastContent": "none",
-          "publishTime": "2015-01-09T10:00:11Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-06-13T20:22:56Z",
+              "channelId": "UClJO9jvaU5mvNuP-XTbhHGw",
+              "title": "Team TaylorMade GLASS BREAKING Challenge | TaylorMade Golf",
+              "description": "You won't believe the accuracy on display in this video featuring Team TaylorMade's Dustin Johnson, Tiger Woods, Rory McIlroy, Collin Morikawa, Tommy Fleetwood and Matthew Wolff. These top golfers flight their balls down to try and eliminate each other by breaking window panes of glass with their faces on it. It all comes down to the wire in a thrilling finish!",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/lJ9EOO0_jzI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/lJ9EOO0_jzI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/lJ9EOO0_jzI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/lJ9EOO0_jzI/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/lJ9EOO0_jzI/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "TaylorMade Golf",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-06-13T20:22:56Z"
+          }
       }
-    ]
-  }
+  ]
+}
