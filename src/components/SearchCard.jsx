@@ -27,17 +27,18 @@ export default function SearchCard({ video }) {
       <img
         src={thumbnails.medium.url}
         alt={title}
-        className="w-50 rounded-lg mr-2"
+        className="w-6/8 rounded-lg mr-2"
       />
-      <div>
+      <div className=''>
         <p className="text-lg font-semibold">{title}</p>
         <p className="text-sm opacity-70 mb-2">
           View {videoViewCounts} / {format(publishedAt)}
         </p>
-        <p className="text-sm opacity-70 mb-2">{format(publishedAt)}</p>
-        <img className="rounded-full" src={thumbnailURL} alt={channelTitle} />
-        <p className="text-sm opacity-70 mb-2">{channelTitle}</p>
-        <pre className="text-sm opacity-70">{description}</pre>
+        <div className='flex items-center mb-4'>
+          <img className="rounded-full w-6 h-6 mr-3" src={thumbnailURL} alt={channelTitle} />
+          <p className="text-sm opacity-70 mb-2">{channelTitle}</p>
+        </div>
+          <pre className="text-sm opacity-70">{description}</pre>
       </div>
     </li>
   );

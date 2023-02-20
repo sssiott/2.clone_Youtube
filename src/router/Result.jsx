@@ -1,7 +1,7 @@
-import React from 'react';
-import { useLoaderData } from 'react-router-dom';
-import SearchCard from '../components/SearchCard';
-import { searchQuery } from '../api/Querys';
+import React from "react";
+import { useLoaderData, useLocation } from "react-router-dom";
+import SearchCard from "../components/SearchCard";
+import { searchQuery } from "../api/Querys";
 
 export default function Result() {
   const videos = useLoaderData();
@@ -9,8 +9,8 @@ export default function Result() {
   return (
     <>
       <ul>
-        {videos.map((video)=>(
-          <SearchCard key={video.id} video={video}/>
+        {videos.map((video) => (
+          <SearchCard key={video.id} video={video} />
         ))}
       </ul>
     </>
@@ -18,13 +18,13 @@ export default function Result() {
 }
 
 export function loader(queryClient) {
-  return async ({request}) => {
+  return async ({ request }) => {
     const url = new URL(request.url);
-    const keyword = url.searchParams.get('search_query');
+    const keyword = url.searchParams.get("search_query");
     const query = searchQuery(keyword);
     return (
       queryClient.getQueryData(query.queryKey) ??
       (await queryClient.fetchQuery(query))
-    )
-  }
+    );
+  };
 }

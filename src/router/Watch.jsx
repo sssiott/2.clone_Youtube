@@ -1,5 +1,4 @@
-import { useQuery } from "@tanstack/react-query";
-import React from "react";
+import React, { useEffect } from "react";
 import { useLoaderData, useLocation } from "react-router-dom";
 import { getRelatedVideos } from "../api/Querys";
 import WatchCard from "../components/WatchCard";
@@ -9,22 +8,25 @@ export default function Watch() {
   const {
     state: { video },
   } = useLocation();
-
   const relatedVideos = useLoaderData();
 
+  useEffect(()=>{
+    window.scrollTo(0,89);
+  },);
+
   return (
-    <>
-      <section>
+    <div className='flex flex-col gap-4'>
+      <section  id='video' className=''>
         <WatchCard video={video} />
       </section>
-      <section>
-        <ul>
-          {relatedVideos.map(video=>(
+      <section className=''>
+        <ul className='flex flex-row overflow-scroll'>
+          {relatedVideos.map((video) => (
             <RelatedVideo key={video.id} video={video} />
           ))}
         </ul>
       </section>
-    </>
+    </div>
   );
 }
 

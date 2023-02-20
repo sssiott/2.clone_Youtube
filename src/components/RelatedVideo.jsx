@@ -7,46 +7,26 @@ import { format } from "timeago.js";
 export default function RelatedVideo({ video }) {
   const {
     channelTitle,
-    description,
     publishedAt,
     thumbnails,
     title,
-    channelId,
   } = video.snippet;
 
   const { data: videoViewCounts } = useQuery(getVideoDetail(video.id));
   const navigate = useNavigate();
-
   return (
     <>
-      {/* <li
-        className="flex my-4 cursor-pointer"
+      <li
+        className="cursor-pointer flex flex-col"
         onClick={(e) => navigate(`/watch?v=${video.id}`, { state: { video } })}
       >
-        <img
-          src={thumbnails.medium.url}
-          alt="title"
-          className="w-50 rounded-lg mr-2"
-        />
+        <img className='w-80 mx-1 rounded-xl' src={thumbnails.default.url} alt={title} />
         <div>
-          <p className="text-lg font-semibold">{title}</p>
-          <p className="text-sm opacity-70 mb-2">
+          <p className="font-bold">{title}</p>
+          <p className='opacity-70'>{channelTitle}</p>
+          <p>
             View {videoViewCounts} / {format(publishedAt)}
           </p>
-          <p className="text-sm opacity-70 mb-2">{format(publishedAt)}</p>
-          <p className="text-sm opacity-70 mb-2">{channelTitle}</p>
-          <pre className="text-sm opacity-70">{description}</pre>
-        </div>
-      </li> */}
-      <li
-        className="cursor-pointer"
-        onClick={(e) => navigate(`/watch?v=${video.id}`, { state: { video } })}
-      >
-        <img src={thumbnails.default.url} alt={title} />
-        <div>
-          <p>{title}</p>
-          <p>{channelTitle}</p>
-          <p>View {videoViewCounts} / {format(publishedAt)}</p>
         </div>
       </li>
     </>
