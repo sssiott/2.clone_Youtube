@@ -10,7 +10,7 @@ export default function WatchCard({ video }) {
         id="player"
         type="text/html"
         title="player"
-        src={`http://www.youtube.com/embed/${video.id}`}
+        src={`https://www.youtube.com/embed/${video.id}`}
       />
         <section className='mt-4 mx-4'>
           <h2 className='text-3xl font-bold'>{title}</h2>
